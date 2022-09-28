@@ -70,6 +70,9 @@ Professional Collaboration:
 Teaching Experiences:
 ======
 COMP7104: The Introduction of the Linux Operating System, Lecturer, The University of Hong Kong
+
 COMP7305: Cloud and Cluster Computing, Teaching Assistant, in Department of Computer Science, The University of Hong Kong
+
 COMP8301: Advanced Topics in Computer Systems, Teaching Assistant, in Department of Computer Science, The University of Hong Kong
+
 COMP9301: Systems Design and Implementation, Teaching Assistant, in Department of Computer Science, The University of Hong Kong
