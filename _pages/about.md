@@ -36,12 +36,17 @@ Yao Xin, Will X. Y. Li, **Zhaorui Zhang**, Ray C. C. Cheung, Dong Song, Theodore
 
 Academic Employment Experiences:
 ======
-1. **The University of Hong Kong**
+**The University of Hong Kong**
+
 Research Associate in Department of Computer Science
+
 1) Optimization for distributed deep learning system.
 2) Communication reduction, gradient compression and the gradients error constraint for distributed DNN training.
-2. **City University of Hong Kong**
+
+**City University of Hong Kong**
+
 Research Assistant in Department of Electrical Engineering
+
 1) Algorithm optimization and acceleration based on the FPGA
 2) Acceleration for the collision detection in image-guided robotic surgery based on the FPGA
 
@@ -53,6 +58,7 @@ Talks:
 Professional Services:
 ======
 **Reviewer**: Neural Computing and Applications (Journal-JCR:Q1)
+
 **Sub-Reviewer**: IEEE Transactions on Parallel and Distributed Systems (TPDS); IEEE International Symposium On Field-Programmable Custom Computing Machines (FCCM)
 
 Professional Collaboration:
