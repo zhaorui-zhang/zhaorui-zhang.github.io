@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Bio:
-======
 I received my Ph.D.'s degree from the System Research Group at the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before joining HKU, I worked as a research assistant in the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong Universit](http://en.xjtu.edu.cn/).
 
 Research Interests:
