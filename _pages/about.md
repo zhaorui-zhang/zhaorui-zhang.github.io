@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D.'s degree from the System Research Group at the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before joining HKU, I worked as a research assistant in the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong Universit](http://en.xjtu.edu.cn/).
+I received my Ph.D.'s degree from the System Research Group at the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before joining HKU, I worked as a research assistant in the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+
 
 Research Interests:
 ======
 My research mainly focuses on distributed machine/deep learning systems (machine learning systems), which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning, and aims to optimize the distributed deep learning system from both sides of system and machine/deep learning algorithms. 
 
 I am also interested in distributed systems, high-performance computing, cloud computing, and FPGA.
+
 
 Publications:
 ======
@@ -32,6 +34,7 @@ Xuebin Chi, Liping Liu, Yangang Wang, **Zhaorui Zhang**,  etc, Development Repor
 
 Yao Xin, Will X. Y. Li, **Zhaorui Zhang**, Ray C. C. Cheung, Dong Song, Theodore W. Berger, An Application Specific Instruction Set Processor (ASIP) for Adaptive Filters in Neural Prosthetics, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2015. **\[TCBB\]**
 
+
 Academic Employment Experiences:
 ======
 **The University of Hong Kong**
@@ -48,6 +51,7 @@ Research Assistant in Department of Electrical Engineering
 1) Algorithm optimization and acceleration based on the FPGA
 2) Acceleration for the collision detection in image-guided robotic surgery based on the FPGA
 
+
 Talks:
 ======
 1. **June. 2022**: Invited Talk at **Shenzhen University** --- Efficient Parameter Update Strategy for Distributed Deep Learning Systems
@@ -59,11 +63,13 @@ Professional Services:
 
 **Sub-Reviewer**: IEEE Transactions on Parallel and Distributed Systems (TPDS); IEEE International Symposium On Field-Programmable Custom Computing Machines (FCCM)
 
+
 Professional Collaboration:
 ======
 1. **HKUST**: X-GPU cluster, computing resources.
 2. **China National Grid**: helps to maintain the high-performance computing platform and publish a book as a co-author, collaborates with the Computer Network Information Center of the Chinese Academy of Science.
 3. **AWS (public cloud)**: computing resources, help to invite the AWS's technique staff to give a talk at HKU.
+
 
 Teaching Experiences:
 ======
