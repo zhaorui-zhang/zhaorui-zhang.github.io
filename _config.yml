@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhaorui Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. HKU"
   location         : "Hong Kong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=0UuCWq0AAAAJ&hl=en"
+  email            : "zrzhang@connect.hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
