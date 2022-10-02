@@ -42,14 +42,16 @@ Academic Employment Experiences:
 Research Associate in Department of Computer Science
 
 1) Optimization for distributed deep learning system.
-2) Communication reduction, gradient compression and the gradients error constraint for distributed DNN training.
+2) 
+3) Communication reduction, gradient compression and the gradients error constraint for distributed DNN training.
 
 **City University of Hong Kong**
 
 Research Assistant in Department of Electrical Engineering
 
-1) Algorithm optimization and acceleration based on the FPGA
-2) Acceleration for the collision detection in image-guided robotic surgery based on the FPGA
+1) Algorithm optimization and acceleration based on the FPGA.
+2) 
+3) Acceleration for the collision detection in image-guided robotic surgery based on the FPGA.
 
 
 Talks:
