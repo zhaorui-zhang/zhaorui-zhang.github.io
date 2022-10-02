@@ -84,4 +84,4 @@ COMP9301: Systems Design and Implementation, Teaching Assistant, in Department o
 
 <a href="https://www.revolvermaps.com/livestats/5wcp2zejde4/"><img src="//rf.revolvermaps.com/h/m/a/2/ff0000/128/0/5wcp2zejde4.png" width="256" height="128" alt="Map" style="border:0;"></a>
 
-<a href="https://clustrmaps.com/site/1bqmb" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=URRu3SNqL-_PM1nHFvqU6E3fZlHcYj8OEfwEQTa89CI&cl=ffffff"></a>
+<a href="https://clustrmaps.com/site/1bqmb" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=URRu3SNqL-_PM1nHFvqU6E3fZlHcYj8OEfwEQTa89CI" /></a>
