@@ -13,9 +13,9 @@ I received my Ph.D.'s degree from the System Research Group at the [Department o
 
 Research Interests:
 ======
-My research mainly focuses on distributed machine/deep learning systems (machine learning systems), which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning, and aims to optimize the distributed deep learning system from both sides of system and machine/deep learning algorithms. 
+My research mainly focuses on machine learning systems, especially for distributed machine/deep learning systems, which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning, that aims to optimize the distributed deep learning system from both sides of system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc.
 
-I am also interested in distributed systems, high-performance computing, cloud computing, and FPGA.
+I am also interested in high-performance computing (HPC), distributed systems, cloud computing, and FPGA.
 
 
 Publications:
