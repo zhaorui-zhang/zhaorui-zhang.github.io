@@ -40,9 +40,13 @@ Yao Xin, Will X. Y. Li, **Zhaorui Zhang**, Ray C. C. Cheung, Dong Song, Theodore
 
 Academic Employment Experiences:
 ======
+**The Hong Kong Polytechnic University**
+
+Research Assistant Professor in Department of Computing
+
 **The University of Hong Kong**
 
-Research Associate in Department of Computer Science
+Postdoctoral Researcher in Department of Computer Science
 
 1) Optimization for distributed deep learning system. 
 
