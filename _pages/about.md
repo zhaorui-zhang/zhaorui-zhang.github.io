@@ -8,14 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D.'s degree from the System Research Group at the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before joining HKU, I worked as a research assistant in the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+I am currently a research assistant professor at [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I received my Ph.D.'s degree from the System Research Group at the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before joining HKU, I worked as a research assistant in the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 
 Research Interests:
 ======
-My research mainly focuses on machine learning systems, especially for distributed machine/deep learning systems, which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning, that aims to optimize the distributed deep learning system from both sides of system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc.
+I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc.
 
 I am also interested in high-performance computing (HPC), distributed systems, cloud computing, and FPGA.
+
+<!-- which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning, that aims to optimize the distributed deep learning system from both sides of system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc. -->
+
 
 
 Publications:
