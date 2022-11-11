@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhaorui Zhang"
+title                    : "Hi, I am Zhaorui Zhang"
 title_separator          : "-"
 name                     : &name "Zhaorui Zhang"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhaorui Zhang"
   avatar           : "Profile.png"
-  bio              : "RAP, PolyU, Ph.D. HKU"
+  bio              : "RAP, PolyU, HK"
   location         : "Hong Kong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0UuCWq0AAAAJ&hl=en"
-  email            : "zrzhang@connect.hku.hk"
+  email            : "zhaorui.zhang@polyu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
