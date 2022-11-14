@@ -19,7 +19,9 @@ I am also interested in high-performance computing (HPC), distributed systems, c
 
 <!-- which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning, that aims to optimize the distributed deep learning system from both sides of system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc. -->
 
-
+Opening: 
+======
+Currently, I am looking for student interns who would like to work with me in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV.
 
 Publications:
 ======
