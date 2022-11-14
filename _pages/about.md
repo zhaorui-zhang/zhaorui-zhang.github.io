@@ -21,7 +21,7 @@ I am also interested in high-performance computing (HPC), distributed systems, c
 
 Opening: 
 ======
-Currently, I am looking for student interns who would like to work with me in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV.
+Currently, We are looking for student interns who would like to work with us in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV.
 
 Publications:
 ======
