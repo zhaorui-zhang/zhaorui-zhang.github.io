@@ -9,11 +9,15 @@ redirect_from:
 ---
 
 Research Assistant Professor
+
 [Department of Computing](https://www.polyu.edu.hk/comp/)
+
 [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html)
+
 [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
 
 zhaorui.zhang@polyu.edu.hk
+
 PQ748, Mong Man Wai Building, PolyU
 
 
