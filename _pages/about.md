@@ -8,17 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Research Assistant Professor
+I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html).
 
-[Department of Computing](https://www.polyu.edu.hk/comp/)
+Email: zhaorui.zhang@polyu.edu.hk
 
-[Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html)
-
-[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
-
-zhaorui.zhang@polyu.edu.hk
-
-PQ748, Mong Man Wai Building, PolyU
+Address: PQ748, Mong Man Wai Building, PolyU
 
 
 Research Interests:
