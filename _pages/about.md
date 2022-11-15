@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant professor at [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I received my Ph.D.'s degree from the System Research Group at the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before joining HKU, I worked as a research assistant in the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+I am currently a research assistant professor at [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html)
 
 
 Research Interests:
@@ -38,6 +38,10 @@ Xuebin Chi, Liping Liu, Yangang Wang, **Zhaorui Zhang**,  etc, Development Repor
 **Zhaorui Zhang**, Xin Y, Liu B, Li WXY, Lee K.H., Ng C.F., Stoyanov D, Cheung RCC, Kwok KW, FPGA-based High-Performance Collision Detection: An Enabling Technique for Image-Guided Robotic Surgery, Frontiers in Robotics and AI, August 2016
 
 Yao Xin, Will X. Y. Li, **Zhaorui Zhang**, Ray C. C. Cheung, Dong Song, Theodore W. Berger, An Application Specific Instruction Set Processor (ASIP) for Adaptive Filters in Neural Prosthetics, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2015. **\[TCBB\]**
+
+Bio:
+======
+I received my Ph.D.'s degree from the System Research Group at the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before joining HKU, I worked as a research assistant in the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 
 Academic Employment Experiences:
