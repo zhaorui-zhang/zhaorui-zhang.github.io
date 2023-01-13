@@ -94,6 +94,8 @@ Professional Collaboration:
 
 Teaching Experiences:
 ======
+COMP4442: Service and Cloud Computing, Department of Computing, The Hong Kong Polytechnic University, 2023 Spring Semester
+
 COMP7104: The Introduction of the Linux Operating System, Lecturer, The University of Hong Kong
 
 COMP7305: Cloud and Cluster Computing, Teaching Assistant, in Department of Computer Science, The University of Hong Kong
