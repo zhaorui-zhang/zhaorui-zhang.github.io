@@ -23,7 +23,7 @@ I am broadly interested in the building and optimization of AI systems (MLSys) f
 
 I am also interested in high-performance computing (HPC), distributed systems, Data Reduction, cloud computing, and FPGA.
 
-<!-- which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning, that aims to optimize the distributed deep learning system from both sides of system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc. -->
+<!-- which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning that aims to optimize the distributed deep learning system from both sides of the system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc. -->
 
 Opening: 
 ======
@@ -31,25 +31,25 @@ Currently, We are looking for student interns who would like to work with us in 
 
 Publications:
 ======
-Haotian Xu, **Zhaorui Zhang**, Sheng Di, Benben Liu, Alharthi Khalid, Jiannong Cao, FedFa: A Fully Asynchronous Training Paradigm for Federated Learning, **\[IJCAI\]** 2024
+**\[IJCAI'2024\]**  Haotian Xu, **Zhaorui Zhang**, Sheng Di, Benben Liu, Alharthi Khalid, Jiannong Cao, FedFa: A Fully Asynchronous Training Paradigm for Federated Learning. 
 
-Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Ken Raffenetti, Hui Zhou, Kai Zhao, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur, An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression, **\[IPDPS\]** 2024
+**\[IPDPS'2024\]**  Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Ken Raffenetti, Hui Zhou, Kai Zhao, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur, An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression. 
 
-Zhuoran Ji, **Zhaorui Zhang**, Jiming Xu, Lei Ju, Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs, **\[PPoPP\]** 2024
+**\[PPoPP'2024\]** 2024 Zhuoran Ji, **Zhaorui Zhang**, Jiming Xu, Lei Ju, Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs.
 
 **Zhaorui Zhang**, Efficient Parameter Update Strategy for Distributed Deep Learning Systems, HKU Theses Online (HKUTO), 2021.
 
-**Zhaorui Zhang**, Cho-Li Wang, MIPD: An Adaptive Gradient Sparsification Framework for Distributed DNNs Training, IEEE Transactions on Parallel and Distributed Systems, Special Section on Parallel and Distributed Computing Techniques for AI, ML, and DL, 2022. **\[TPDS\]**
+**\[TPDS\]** **Zhaorui Zhang**, Cho-Li Wang, MIPD: An Adaptive Gradient Sparsification Framework for Distributed DNNs Training, IEEE Transactions on Parallel and Distributed Systems, Special Section on Parallel and Distributed Computing Techniques for AI, ML, and DL, 2022. 
 
-**Zhaorui Zhang**, Cho-Li Wang, SaPus: Self-Adaptive Parameter Update Strategy for DNN Training on Multi-GPU Clusters, IEEE Transactions on Parallel and Distributed Systems, 2021, directly accepted by the first round of review. **\[TPDS\]**
+**\[TPDS\]** **Zhaorui Zhang**, Cho-Li Wang, SaPus: Self-Adaptive Parameter Update Strategy for DNN Training on Multi-GPU Clusters, IEEE Transactions on Parallel and Distributed Systems, 2021, directly accepted by the first round of review. 
 
-**Zhaorui Zhang**, Zhuoran Ji, Cho-Li Wang, Momentum-Driven Adaptive Synchronization Model for Distributed DNN Training on HPC Clusters, Journal of Parallel and Distributed Computing, 2021. **\[JPDC\]**
+**\[JPDC\]** **Zhaorui Zhang**, Zhuoran Ji, Cho-Li Wang, Momentum-Driven Adaptive Synchronization Model for Distributed DNN Training on HPC Clusters, Journal of Parallel and Distributed Computing, 2021. 
 
 Xuebin Chi, Liping Liu, Yangang Wang, **Zhaorui Zhang**, etc., Development Report on National High-Performance Computing Environment, Book, published by Science Press, 2018.
 
 **Zhaorui Zhang**, Xin Y, Liu B, Li WXY, Lee K.H., Ng C.F., Stoyanov D, Cheung RCC, Kwok KW, FPGA-based High-Performance Collision Detection: An Enabling Technique for Image-Guided Robotic Surgery, Frontiers in Robotics and AI, August 2016
 
-Yao Xin, Will X. Y. Li, **Zhaorui Zhang**, Ray C. C. Cheung, Dong Song, Theodore W. Berger, An Application Specific Instruction Set Processor (ASIP) for Adaptive Filters in Neural Prosthetics, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2015. **\[TCBB\]**
+**\[TCBB\]** Yao Xin, Will X. Y. Li, **Zhaorui Zhang**, Ray C. C. Cheung, Dong Song, Theodore W. Berger, An Application Specific Instruction Set Processor (ASIP) for Adaptive Filters in Neural Prosthetics, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2015. 
 
 Professional Services:
 ======
@@ -67,7 +67,7 @@ IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
 IEEE Transactions on Networking (TON)
 
-Neural Computing and Applications (Journal-JCR:Q1)
+<!-- Neural Computing and Applications (Journal-JCR:Q1) -->
 
 Bio:
 ======
@@ -106,7 +106,7 @@ Research Assistant in the Department of Electrical Engineering
 Professional Collaboration:
 ======
 1. **HKUST**: X-GPU cluster, computing resources.
-2. **China National Grid**: helps to maintain the high-performance computing platform and publish a book as a co-author, collaborates with the Computer Network Information Center of the Chinese Academy of Science.
+2. **China National Grid**: helps to maintain the high-performance computing platform and publishes a book as a co-author, collaborating with the Computer Network Information Center of the Chinese Academy of Science.
 3. **AWS (public cloud)**: computing resources, help to invite the AWS's technique staff to give a talk at HKU.
 
 
@@ -118,9 +118,9 @@ COMP7104: The Introduction of the Linux Operating System, Lecturer, The Universi
 
 COMP7305: Cloud and Cluster Computing, Teaching Assistant, in the Department of Computer Science, The University of Hong Kong
 
-COMP8301: Advanced Topics in Computer Systems, Teaching Assistant, in Department of Computer Science, The University of Hong Kong
+COMP8301: Advanced Topics in Computer Systems, Teaching Assistant, in the Department of Computer Science, The University of Hong Kong
 
-COMP9301: Systems Design and Implementation, Teaching Assistant, in Department of Computer Science, The University of Hong Kong
+COMP9301: Systems Design and Implementation, Teaching Assistant, in the Department of Computer Science, The University of Hong Kong
 
 
 <a href="https://www.revolvermaps.com/livestats/5wcp2zejde4/"><img src="//rf.revolvermaps.com/h/m/a/2/ff0000/128/0/5wcp2zejde4.png" width="256" height="128" alt="Map" style="border:0;"></a>
