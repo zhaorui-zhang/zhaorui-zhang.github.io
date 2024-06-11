@@ -97,10 +97,10 @@ Research Assistant in the Department of Electrical Engineering
 2) Acceleration for collision detection in image-guided robotic surgery based on the FPGA.
 
 
-Talks:
+<!--Talks:
 ======
 1. **June. 2022**: Invited Talk at **Shenzhen University** --- Efficient Parameter Update Strategy for Distributed Deep Learning Systems
-2. **Dec. 2021**: Invited Talk at **Future Network Theory Lab of Huawei Technologies(HK)**, talk about the gradient error constraints for distributed deep learning systems
+2. **Dec. 2021**: Invited Talk at **Future Network Theory Lab of Huawei Technologies(HK)**, talk about the gradient error constraints for distributed deep learning systems -->
 
 
 Professional Collaboration:
