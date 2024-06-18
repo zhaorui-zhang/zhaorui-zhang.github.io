@@ -27,14 +27,14 @@ I am also interested in high-performance computing (HPC), distributed systems, D
 
 News:
 ======
-**14 June, 2024**, Our paper "ConDa: A Generic and Efficient Datapath Protection Technique against Transient Hardware Faults" has been accepted by [SC'2024](https://sc24.supercomputing.org/) The International Conference for High-Performance Computing, Networking, Storage, and Analysis. ATLANTA, GA, USA, NOV 17–22
+**14 June 2024**, Our paper "ConDa: A Generic and Efficient Datapath Protection Technique against Transient Hardware Faults" has been accepted by [SC'2024](https://sc24.supercomputing.org/) The International Conference for High-Performance Computing, Networking, Storage, and Analysis. ATLANTA, GA, USA, NOV 17–22
 
-**17 April, 2024**, Our paper "FedFa: A Fully Asynchronous Training Paradigm for Federated Learning" has been accepted by [IJCAI' 2024](https://ijcai24.org/) International Joint Conference
+**17 April 2024**, Our paper "FedFa: A Fully Asynchronous Training Paradigm for Federated Learning" has been accepted by [IJCAI' 2024](https://ijcai24.org/) International Joint Conference
 on Artificial  Intelligence Jeju 03.08.24 - 09.08.24
 
-**31 Jan, 2024**, Our paper "An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression" has been accepted by [IPDPS' 2024](https://www.ipdps.org/ipdps2024/) 38th IEEE International Parallel & Distributed Processing Symposium, May 27-31, 2024, San Francisco, California USA
+**31 Jan 2024**, Our paper "An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression" has been accepted by [IPDPS' 2024](https://www.ipdps.org/ipdps2024/) 38th IEEE International Parallel & Distributed Processing Symposium, May 27-31, 2024, San Francisco, California USA
 
-**29 Nov., 2023**, Our paper "Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs" has been accepted by [PPoPP' 2024](https://conf.researchr.org/home/ppopp-2024), ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming 2024 March 2nd – March 6th, 2024, Edinburgh, UK
+**29 Nov. 2023**, Our paper "Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs" has been accepted by [PPoPP' 2024](https://conf.researchr.org/home/ppopp-2024), ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming 2024 March 2nd – March 6th, 2024, Edinburgh, UK
 
 Opening: 
 ======
