@@ -31,6 +31,8 @@ Currently, We are looking for student interns who would like to work with us in 
 
 Publications:
 ======
+**\[SC'2024\]**  Yafan Huang, Sheng Di, **Zhaorui Zhang**, Xiaoyi Lu, Guanpeng Li, ConDa: A Generic and Efficient Datapath Protection Technique against Transient Hardware Faults.
+
 **\[IJCAI'2024\]**  Haotian Xu, **Zhaorui Zhang**, Sheng Di, Benben Liu, Alharthi Khalid, Jiannong Cao, FedFa: A Fully Asynchronous Training Paradigm for Federated Learning. 
 
 **\[IPDPS'2024\]**  Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Ken Raffenetti, Hui Zhou, Kai Zhao, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur, An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression. 
