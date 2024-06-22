@@ -19,9 +19,9 @@ Address: PQ748, Mong Man Wai Building, PolyU
 
 Research Interests:
 ======
-I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc.
+I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication reduction, gradient error constraints, parameter compression, fault-tolerance, etc.
 
-I am also interested in high-performance computing (HPC), distributed systems, Data Reduction, cloud computing, and FPGA.
+I am also interested in high-performance computing (HPC), distributed systems, data reduction, cloud computing, fault tolerance, and FPGA.
 
 <!-- which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning that aims to optimize the distributed deep learning system from both sides of the system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc. -->
 
@@ -48,7 +48,7 @@ Publications:
 
 **\[IPDPS'2024\]**  Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Ken Raffenetti, Hui Zhou, Kai Zhao, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur, An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression. 
 
-**\[PPoPP'2024\]** 2024 Zhuoran Ji, **Zhaorui Zhang**, Jiming Xu, Lei Ju, Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs.
+**\[PPoPP'2024\]** Zhuoran Ji, **Zhaorui Zhang**, Jiming Xu, Lei Ju, Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs.
 
 **Zhaorui Zhang**, Efficient Parameter Update Strategy for Distributed Deep Learning Systems, HKU Theses Online (HKUTO), 2021.
 
