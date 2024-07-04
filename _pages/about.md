@@ -38,7 +38,9 @@ on Artificial  Intelligence Jeju 03.08.24 - 09.08.24
 
 Opening: 
 ======
-Currently, We are looking for student interns who would like to work with us in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV.
+If you are interested in my research, we are actively looking for motivated colleagues/students at different levels to reach out and join us!
+
+<!-- Currently, We are looking for student interns who would like to work with us in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV. we welcome different-level students to reach out. -->
 
 Publications:
 ======
