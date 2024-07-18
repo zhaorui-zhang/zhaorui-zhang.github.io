@@ -27,7 +27,9 @@ I am also interested in high-performance computing (HPC), distributed systems, d
 
 News:
 ======
-**14 June 2024**, Our paper "ConDa: A Generic and Efficient Datapath Protection Technique against Transient Hardware Faults" has been accepted by [SC'2024](https://sc24.supercomputing.org/) The International Conference for High-Performance Computing, Networking, Storage, and Analysis. ATLANTA, GA, USA, NOV 17–22
+**18 July 2024**, Our paper "A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs" has been accepted by [Micro' 2024](https://microarch.org/micro57/). 57th IEEE/ACM International Symposium on Microarchitecture, November 2 – November 6, 2024 Austin, Texas, USA
+
+**14 June 2024**, Our paper "ConDa: A Generic and Efficient Datapath Protection Technique against Transient Hardware Faults" has been accepted by [SC'2024](https://sc24.supercomputing.org/) The International Conference for High-Performance Computing, Networking, Storage, and Analysis. Atlanta, GA, USA, NOV 17–22
 
 **17 April 2024**, Our paper "FedFa: A Fully Asynchronous Training Paradigm for Federated Learning" has been accepted by [IJCAI' 2024](https://ijcai24.org/) International Joint Conference
 on Artificial  Intelligence Jeju 03.08.24 - 09.08.24
@@ -44,13 +46,15 @@ If you are interested in my research, we are actively looking for motivated coll
 
 Publications:
 ======
-**\[SC'2024\]**  Yafan Huang, Sheng Di, **Zhaorui Zhang**, Xiaoyi Lu, Guanpeng Li, ConDa: A Generic and Efficient Datapath Protection Technique against Transient Hardware Faults.
+**\[Micro' 2024\]** Zhuoran Ji, Jianyu Zhao, **Zhaorui Zhang**, Jiming Xu, Shoumeng Yan, Lei Ju, A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs. (**CCF-A Conference for Computer Architecture**)
 
-**\[IJCAI'2024\]**  Haotian Xu, **Zhaorui Zhang**, Sheng Di, Benben Liu, Alharthi Khalid, Jiannong Cao, FedFa: A Fully Asynchronous Training Paradigm for Federated Learning. 
+**\[SC'2024\]**  Yafan Huang, Sheng Di, **Zhaorui Zhang**, Xiaoyi Lu, Guanpeng Li, ConDa: A Generic and Efficient Datapath Protection Technique against Transient Hardware Faults. (**CCF-A Conference for High-Performance Computing**)
 
-**\[IPDPS'2024\]**  Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Ken Raffenetti, Hui Zhou, Kai Zhao, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur, An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression. 
+**\[IJCAI'2024\]**  Haotian Xu, **Zhaorui Zhang**, Sheng Di, Benben Liu, Alharthi Khalid, Jiannong Cao, FedFa: A Fully Asynchronous Training Paradigm for Federated Learning. (**CCF-A Conference for AI Systems**) 
 
-**\[PPoPP'2024\]** Zhuoran Ji, **Zhaorui Zhang**, Jiming Xu, Lei Ju, Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs.
+**\[IPDPS'2024\]**  Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Ken Raffenetti, Hui Zhou, Kai Zhao, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur, An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression. (**CCF-B Conference for Distributed and Parallel Systems**)
+
+**\[PPoPP'2024\]** Zhuoran Ji, **Zhaorui Zhang**, Jiming Xu, Lei Ju, Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs. (**CCF-A Conference for Distributed and Parallel Systems**)
 
 **Zhaorui Zhang**, Efficient Parameter Update Strategy for Distributed Deep Learning Systems, HKU Theses Online (HKUTO), 2021.
 
