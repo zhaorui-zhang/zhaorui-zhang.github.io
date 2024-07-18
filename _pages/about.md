@@ -46,15 +46,15 @@ If you are interested in my research, we are actively looking for motivated coll
 
 Publications:
 ======
-**\[Micro' 2024\]** Zhuoran Ji, Jianyu Zhao, **Zhaorui Zhang**, Jiming Xu, Shoumeng Yan, Lei Ju, A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs. (**CCF-A Conference for Computer Architecture**)
+**\[Micro' 2024\]** Zhuoran Ji, Jianyu Zhao, **Zhaorui Zhang**, Jiming Xu, Shoumeng Yan, Lei Ju, A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs. (**CCF-A** Conference for Computer Architecture)
 
-**\[SC'2024\]**  Yafan Huang, Sheng Di, **Zhaorui Zhang**, Xiaoyi Lu, Guanpeng Li, ConDa: A Generic and Efficient Datapath Protection Technique against Transient Hardware Faults. (**CCF-A Conference for High-Performance Computing**)
+**\[SC'2024\]**  Yafan Huang, Sheng Di, **Zhaorui Zhang**, Xiaoyi Lu, Guanpeng Li, ConDa: A Generic and Efficient Datapath Protection Technique against Transient Hardware Faults. (**CCF-A** Conference for High-Performance Computing)
 
-**\[IJCAI'2024\]**  Haotian Xu, **Zhaorui Zhang**, Sheng Di, Benben Liu, Alharthi Khalid, Jiannong Cao, FedFa: A Fully Asynchronous Training Paradigm for Federated Learning. (**CCF-A Conference for AI Systems**) 
+**\[IJCAI'2024\]**  Haotian Xu, **Zhaorui Zhang**, Sheng Di, Benben Liu, Alharthi Khalid, Jiannong Cao, FedFa: A Fully Asynchronous Training Paradigm for Federated Learning. (**CCF-A** Conference for AI Systems) 
 
-**\[IPDPS'2024\]**  Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Ken Raffenetti, Hui Zhou, Kai Zhao, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur, An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression. (**CCF-B Conference for Distributed and Parallel Systems**)
+**\[IPDPS'2024\]**  Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Ken Raffenetti, Hui Zhou, Kai Zhao, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur, An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression. (**CCF-B** Conference for Distributed and Parallel Systems)
 
-**\[PPoPP'2024\]** Zhuoran Ji, **Zhaorui Zhang**, Jiming Xu, Lei Ju, Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs. (**CCF-A Conference for Distributed and Parallel Systems**)
+**\[PPoPP'2024\]** Zhuoran Ji, **Zhaorui Zhang**, Jiming Xu, Lei Ju, Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs. (**CCF-A** Conference for Distributed and Parallel Systems)
 
 **Zhaorui Zhang**, Efficient Parameter Update Strategy for Distributed Deep Learning Systems, HKU Theses Online (HKUTO), 2021.
 
