@@ -19,7 +19,7 @@ Address: PQ748, Mong Man Wai Building, PolyU
 
 Research Interests:
 ======
-I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication reduction, gradient error constraints, parameter compression, fault-tolerance, etc.
+I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
 
 I am also interested in high-performance computing (HPC), distributed systems, data reduction, cloud computing, fault tolerance, and FPGA.
 
@@ -27,14 +27,16 @@ I am also interested in high-performance computing (HPC), distributed systems, d
 
 News:
 ======
+**26 Nov. 2024**, Our paper "StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices" has been accepted by [ACM e-Energy 2025](https://energy.acm.org/conferences/eenergy/2025/). *The 16th ACM International Conference on Future and Sustainable Energy Systems*. Rotterdam, Netherlands, June 17 - 20, 2025
+
 **18 July 2024**, Our paper "A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs" has been accepted by [Micro' 2024](https://microarch.org/micro57/). *57th IEEE/ACM International Symposium on Microarchitecture*. November 2 – November 6, 2024 Austin, Texas, USA
 
-**14 June 2024**, Our paper "ConDa: A Generic and Efficient Datapath Protection Technique against Transient Hardware Faults" has been accepted by [SC'2024](https://sc24.supercomputing.org/) *The International Conference for High-Performance Computing, Networking*. Storage, and Analysis. Atlanta, GA, USA, NOV 17–22
+**14 June 2024**, Our paper "Versatile Datapath Soft Error Detection on the Cheap for HPC Applications" has been accepted by [SC'2024](https://sc24.supercomputing.org/) *The International Conference for High-Performance Computing, Networking, Storage and Analysis*. Atlanta, GA, USA, NOV 17–22
 
 **17 April 2024**, Our paper "FedFa: A Fully Asynchronous Training Paradigm for Federated Learning" has been accepted by [IJCAI' 2024](https://ijcai24.org/) *International Joint Conference
 on Artificial  Intelligence*. Jeju 03.08.24 - 09.08.24
 
-**31 Jan 2024**, Our paper "An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression" has been accepted by [IPDPS' 2024](https://www.ipdps.org/ipdps2024/) *38th IEEE International Parallel & Distributed Processing Symposium*. May 27-31, 2024, San Francisco, California USA
+**31 Jan. 2024**, Our paper "An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression" has been accepted by [IPDPS' 2024](https://www.ipdps.org/ipdps2024/) *38th IEEE International Parallel & Distributed Processing Symposium*. May 27-31, 2024, San Francisco, California USA
 
 **29 Nov. 2023**, Our paper "Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs" has been accepted by [PPoPP' 2024](https://conf.researchr.org/home/ppopp-2024), *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*. 2024 March 2nd – March 6th, 2024, Edinburgh, UK
 
@@ -42,13 +44,13 @@ Opening:
 ======
 If you are interested in my research, we are actively looking for motivated colleagues/students at different levels to reach out and join us!
 
-<!-- Currently, We are looking for student interns who would like to work with us in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV. we welcome different-level students to reach out. -->
+<!-- Currently, We are looking for student interns who would like to work with us in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV. We welcome different-level students to reach out. -->
 
 Publications:
 ======
 **\[Micro' 2024\]** Zhuoran Ji, Jianyu Zhao, **Zhaorui Zhang**, Jiming Xu, Shoumeng Yan, Lei Ju, A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs. (**CCF-A** Conference for Computer Architecture)
 
-**\[SC'2024\]**  Yafan Huang, Sheng Di, **Zhaorui Zhang**, Xiaoyi Lu, Guanpeng Li, ConDa: A Generic and Efficient Datapath Protection Technique against Transient Hardware Faults. (**CCF-A** Conference for High-Performance Computing)
+**\[SC'2024\]**  Yafan Huang, Sheng Di, **Zhaorui Zhang**, Xiaoyi Lu, Guanpeng Li, Versatile Datapath Soft Error Detection on the Cheap for HPC Applications. (**CCF-A** Conference for High-Performance Computing)
 
 **\[IJCAI'2024\]**  Haotian Xu, **Zhaorui Zhang**, Sheng Di, Benben Liu, Alharthi Khalid, Jiannong Cao, FedFa: A Fully Asynchronous Training Paradigm for Federated Learning. (**CCF-A** Conference for AI Systems) 
 
@@ -84,13 +86,19 @@ Professional Services:
 
 IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
-IEEE Transactions on Networking (TON)
+IEEE Transactions on Computers (TC)
+
+ IEEE/ACM Transactions on Networking (TON)
+
+IEEE Transactions on Mobile Computing (TMC)
+
+IEEE Transactions on Consumer Electronics
 
 <!-- Neural Computing and Applications (Journal-JCR:Q1) -->
 
 Bio:
 ======
-I received my Ph.D. degree from the System Research Group at the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before joining HKU, I worked as a research assistant in the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+I received my Ph.D. degree from the System Research Group at the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before joining HKU as a PhD student, I worked as a research assistant in the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 
 Academic Employment Experiences:
@@ -131,7 +139,7 @@ Professional Collaboration:
 
 Teaching Experiences:
 ======
-COMP4442: Service and Cloud Computing, Department of Computing, The Hong Kong Polytechnic University, 2023 Spring Semester, 2024 Spring Semester
+COMP4442: Service and Cloud Computing, Department of Computing, The Hong Kong Polytechnic University, 2023, 2024, 2025 Spring Semester
 
 COMP7104: The Introduction of the Linux Operating System, Lecturer, The University of Hong Kong
 
