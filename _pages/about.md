@@ -19,7 +19,11 @@ Address: PQ748, Mong Man Wai Building, PolyU
 
 Research Interests:
 ======
-I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
+<h3> AI Infrastructure, MLSys: </h3>
+
+**Large-Scale Model Training, Fine-Tuning, Checkpointing, and Inference Optimization.** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
+
+<h3> HPC, Distributed Systems, Cloud Computing: </h3>
 
 I am also interested in high-performance computing (HPC), distributed systems, data reduction, cloud computing, fault tolerance, and FPGA.
 
@@ -29,7 +33,7 @@ News:
 ======
 **26 Nov. 2024**, Our paper "StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices" has been accepted by [ACM e-Energy 2025](https://energy.acm.org/conferences/eenergy/2025/). *The 16th ACM International Conference on Future and Sustainable Energy Systems*. Rotterdam, Netherlands, June 17 - 20, 2025
 
-**18 July 2024**, Our paper "A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs" has been accepted by [Micro' 2024](https://microarch.org/micro57/). *57th IEEE/ACM International Symposium on Microarchitecture*. November 2 – November 6, 2024 Austin, Texas, USA
+**18 July 2024**, Our paper "A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs" has been accepted by [Micro' 2024](https://microarch.org/micro57/). *57th IEEE/ACM International Symposium on Microarchitecture*. November 2 – November 6, 2024. Austin, Texas, USA
 
 **14 June 2024**, Our paper "Versatile Datapath Soft Error Detection on the Cheap for HPC Applications" has been accepted by [SC'2024](https://sc24.supercomputing.org/) *The International Conference for High-Performance Computing, Networking, Storage and Analysis*. Atlanta, GA, USA, NOV 17–22
 
@@ -48,6 +52,8 @@ If you are interested in my research, we are actively looking for motivated coll
 
 Publications:
 ======
+**\[ACM e-Energy 2025\]** Dan Wang, Boan Liu, Rui Lu, **Zhaorui Zhang**, Shuntao Zhu, StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices.
+
 **\[Micro' 2024\]** Zhuoran Ji, Jianyu Zhao, **Zhaorui Zhang**, Jiming Xu, Shoumeng Yan, Lei Ju, A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs. (**CCF-A** Conference for Computer Architecture)
 
 **\[SC'2024\]**  Yafan Huang, Sheng Di, **Zhaorui Zhang**, Xiaoyi Lu, Guanpeng Li, Versatile Datapath Soft Error Detection on the Cheap for HPC Applications. (**CCF-A** Conference for High-Performance Computing)
@@ -107,7 +113,7 @@ Academic Employment Experiences:
 
 Research Assistant Professor in the Department of Computing
 
-**The University of Hong Kong**
+<!--**The University of Hong Kong**
 
 Postdoctoral Researcher in the Department of Computer Science
 
@@ -121,7 +127,7 @@ Research Assistant in the Department of Electrical Engineering
 
 1) Algorithm optimization and acceleration based on the FPGA.
 
-2) Acceleration for collision detection in image-guided robotic surgery based on the FPGA.
+2) Acceleration for collision detection in image-guided robotic surgery based on the FPGA.-->
 
 
 <!--Talks:
