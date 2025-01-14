@@ -31,9 +31,9 @@ I am also interested in high-performance computing (HPC), distributed systems, d
 
 Opening!: 
 ======
-**Currently, we have several projects related to large-scale models (LLMs) fine-tuning and inference optimization recruit students to join, including the PhD student and MSc dissertation. You are welcome to reach out and talk to me! We will provide hands-on guidance for your work!**
+Currently, we have several projects related to **large-scale models (LLMs) fine-tuning and inference optimization** recruiting students to join, including the **PhD student and MSc dissertation**. You are welcome to reach out and talk to me! We will provide hands-on guidance for your work!
 
-**If you are interested in my research, we are actively looking for motivated colleagues/students at different levels to reach out and join us!**
+If you are interested in my research, we are actively looking for motivated colleagues/students at different levels to reach out and join us!
 
 <!-- Currently, We are looking for student interns who would like to work with us in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV. We welcome different-level students to reach out. -->
 
