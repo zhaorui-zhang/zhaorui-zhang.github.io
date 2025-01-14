@@ -19,15 +19,24 @@ Address: PQ748, Mong Man Wai Building, PolyU
 
 Research Interests:
 ======
-<h3> AI Infrastructure, MLSys: </h3>
+<h3> AI Infrastructure, MLSys, LLMs: </h3>
 
-**Large-Scale Model Training, Fine-Tuning, Checkpointing, and Inference Optimization.** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
+**Large-Scale Model (LLMs) Training, Fine-Tuning, Checkpointing, and Inference Optimization.** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
 
 <h3> HPC, Distributed Systems, Cloud Computing: </h3>
 
 I am also interested in high-performance computing (HPC), distributed systems, data reduction, cloud computing, fault tolerance, and FPGA.
 
 <!-- which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning that aims to optimize the distributed deep learning system from both sides of the system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc. -->
+
+Opening!: 
+======
+**Currently, we have several projects related to large-scale models (LLMs) fine-tuning and inference optimization recruit students to join, including the PhD student and MSc dissertation. You are welcome to reach out and talk to me! We will provide hands-on guidance for your work!**
+
+**If you are interested in my research, we are actively looking for motivated colleagues/students at different levels to reach out and join us!**
+
+<!-- Currently, We are looking for student interns who would like to work with us in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV. We welcome different-level students to reach out. -->
+
 
 News:
 ======
@@ -43,12 +52,6 @@ on Artificial  Intelligence*. Jeju 03.08.24 - 09.08.24
 **31 Jan. 2024**, Our paper "An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression" has been accepted by [IPDPS' 2024](https://www.ipdps.org/ipdps2024/) *38th IEEE International Parallel & Distributed Processing Symposium*. May 27-31, 2024, San Francisco, California USA
 
 **29 Nov. 2023**, Our paper "Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs" has been accepted by [PPoPP' 2024](https://conf.researchr.org/home/ppopp-2024), *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*. 2024 March 2nd – March 6th, 2024, Edinburgh, UK
-
-Opening: 
-======
-If you are interested in my research, we are actively looking for motivated colleagues/students at different levels to reach out and join us!
-
-<!-- Currently, We are looking for student interns who would like to work with us in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV. We welcome different-level students to reach out. -->
 
 Publications:
 ======
