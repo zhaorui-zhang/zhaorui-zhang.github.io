@@ -85,6 +85,8 @@ Professional Services:
 ======
 **Conference Program Committee**: 
 
+**ICLR' 25**: The Thirteenth International Conference on Learning Representations
+
 **IEEE Cluster'24**: IEEE International Conference on Cluster Computing 
 
 **HiPC'24**: IEEE International Conference on High-Performance Computing, Data, and Analytics
