@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html).
+I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html). I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 <!-- I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html).-->
 
@@ -109,9 +109,9 @@ IEEE Transactions on Consumer Electronics
 
 <!-- Neural Computing and Applications (Journal-JCR:Q1) -->
 
-Bio:
+<!--Bio:
 ======
-I received my Ph.D. degree from the System Research Group at the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before joining HKU as a PhD student, I worked as a research assistant in the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+I received my Ph.D. degree from the System Research Group at the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before joining HKU as a PhD student, I worked as a research assistant in the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).-->
 
 
 Academic Employment Experiences:
