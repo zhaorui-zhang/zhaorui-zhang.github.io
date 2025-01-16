@@ -31,7 +31,7 @@ I am also interested in high-performance computing (HPC), distributed systems, d
 
 Opening! 
 ======
-Currently, we have several projects related to **large-scale models (LLMs) fine-tuning and inference optimization** recruiting students to join, including the **PhD student and MSc dissertation**. You are welcome to reach out and talk to me! We will provide hands-on guidance for your work! 
+Currently, we have several projects related to **large-scale models (LLMs) fine-tuning and inference optimization** recruiting students to join, including the **PhD student and other levels**. You are welcome to reach out and talk to me! We will provide hands-on guidance for your work! 
 
 We also have lots of **industry connections in both China and America** and can support you to find some **excellent industry intern opportunities**!
 
