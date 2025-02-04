@@ -45,6 +45,8 @@ Currently, We are looking for student interns who would like to work with us in 
 
 News:
 ======
+**29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ".
+
 **26 Nov. 2024**, Our paper "StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices" has been accepted by [ACM e-Energy 2025](https://energy.acm.org/conferences/eenergy/2025/). *The 16th ACM International Conference on Future and Sustainable Energy Systems*. Rotterdam, Netherlands, June 17 - 20, 2025
 
 **18 July 2024**, Our paper "A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs" has been accepted by [Micro' 2024](https://microarch.org/micro57/). *57th IEEE/ACM International Symposium on Microarchitecture*. November 2 – November 6, 2024. Austin, Texas, USA
@@ -89,6 +91,8 @@ Xuebin Chi, Liping Liu, Yangang Wang, **Zhaorui Zhang**, etc., Development Repor
 Professional Services:
 ======
 **Conference Program Committee**: 
+
+**SC' 25**: The International Conference for High-Performance Computing, Networking, Storage and Analysis
 
 **ICLR' 25**: The Thirteenth International Conference on Learning Representations
 
