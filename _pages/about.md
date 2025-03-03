@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html). I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html). 
+
+
+I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), and very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 <!-- I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html).-->
 
