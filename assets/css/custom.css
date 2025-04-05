@@ -1,0 +1,6 @@
+/* 强制修改页面宽度 */
+.page {
+  max-width: 1600px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
