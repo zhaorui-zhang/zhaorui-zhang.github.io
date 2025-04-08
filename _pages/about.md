@@ -48,6 +48,8 @@ Currently, We are looking for student interns who would like to work with us in 
 
 News:
 ======
+**7 April. 2025**, Our Survey paper about the lossy compression "**A Survey on Error-Bounded Lossy Compression for Scientific Datasets**" has been accepted by the [ACM Computing Survey](https://dl.acm.org/journal/csur). This work offers a comprehensive survey and analysis of lossy compression techniques for scientific data across various domains, including climate, seismic, medical, time series, point cloud, and AI data. Welcome to read and cite our survey paper!!!
+
 **29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ".
 
 **26 Nov. 2024**, Our paper "StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices" has been accepted by [ACM e-Energy 2025](https://energy.acm.org/conferences/eenergy/2025/). *The 16th ACM International Conference on Future and Sustainable Energy Systems*. Rotterdam, Netherlands, June 17 - 20, 2025
@@ -65,6 +67,8 @@ on Artificial  Intelligence*. Jeju 03.08.24 - 09.08.24
 
 Publications:
 ======
+**\[ACM Computing Survey\]** Sheng Di, Jinyang Liu, Kai Zhao, Xin Liang, Robert Underwood, **Zhaorui Zhang**, Milan Shan, Yafan Huang, Jiajun Huang, Xiaodong Yu, Congrong Ren, Haiqi Guo, Grant Wilkins, Dingwen Tao, Jiannan Tian, Sian Jin, Zizhe Jian, Daoce Wang, MD Hasanur Rahman, Boyuan Zhang, Shihui Song, Jon C. Calhoun, Guanpeng Li, Kazutomo Yoshii, Khalid Ayed Alharthi, Franck Cappello. A Survey on Error-Bounded Lossy Compression for Scientific Datasets. (**Impact Factor: 23.8 (ranked 1/143 in Computer Science Theory & Methods)**)
+
 **\[ACM e-Energy 2025\]** Dan Wang, Boan Liu, Rui Lu, **Zhaorui Zhang**, Shuntao Zhu, StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices.
 
 **\[Micro' 2024\]** Zhuoran Ji, Jianyu Zhao, **Zhaorui Zhang**, Jiming Xu, Shoumeng Yan, Lei Ju, A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs. (**CCF-A** Conference for Computer Architecture)
