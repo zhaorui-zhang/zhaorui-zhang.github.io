@@ -48,6 +48,8 @@ Currently, We are looking for student interns who would like to work with us in 
 
 News:
 ======
+**13 April. 2025**, Our paper "FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression" was accepted by the [TPDS](https://www.computer.org/csdl/journal/td), *IEEE Transactions on Parallel and Distributed Systems*.
+
 **7 April. 2025**, Our Survey paper about the lossy compression "**A Survey on Error-Bounded Lossy Compression for Scientific Datasets**" has been accepted by the [ACM Computing Survey](https://dl.acm.org/journal/csur). This work offers a comprehensive survey and analysis of lossy compression techniques for scientific data across various domains, including climate, seismic, medical, time series, point cloud, and AI data. Welcome to read and cite our survey paper!!!
 
 **29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ".
@@ -67,6 +69,8 @@ on Artificial  Intelligence*. Jeju 03.08.24 - 09.08.24
 
 Publications:
 ======
+**\[TPDS\]** **Zhaorui Zhang**, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, Zhuoran Ji, Benben Liu, Khalid Ayed Alharithi, Jiannong Cao, Franck Cappello, FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression. IEEE Transactions on Parallel and Distributed Systems. (**CCF-A** Journal for Distributed and Parallel Systems)
+
 **\[ACM Computing Survey\]** Sheng Di, Jinyang Liu, Kai Zhao, Xin Liang, Robert Underwood, **Zhaorui Zhang**, Milan Shan, Yafan Huang, Jiajun Huang, Xiaodong Yu, Congrong Ren, Haiqi Guo, Grant Wilkins, Dingwen Tao, Jiannan Tian, Sian Jin, Zizhe Jian, Daoce Wang, MD Hasanur Rahman, Boyuan Zhang, Shihui Song, Jon C. Calhoun, Guanpeng Li, Kazutomo Yoshii, Khalid Ayed Alharthi, Franck Cappello. A Survey on Error-Bounded Lossy Compression for Scientific Datasets. (**Impact Factor: 23.8 (ranked 1/143 in Computer Science Theory & Methods)**)
 
 **\[ACM e-Energy 2025\]** Dan Wang, Boan Liu, Rui Lu, **Zhaorui Zhang**, Shuntao Zhu, StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices.
@@ -83,9 +87,9 @@ Publications:
 
 **Zhaorui Zhang**, Efficient Parameter Update Strategy for Distributed Deep Learning Systems, HKU Theses Online (HKUTO), 2021.
 
-**\[TPDS\]** **Zhaorui Zhang**, Cho-Li Wang, MIPD: An Adaptive Gradient Sparsification Framework for Distributed DNNs Training, IEEE Transactions on Parallel and Distributed Systems, Special Section on Parallel and Distributed Computing Techniques for AI, ML, and DL, 2022. 
+**\[TPDS\]** **Zhaorui Zhang**, Cho-Li Wang, MIPD: An Adaptive Gradient Sparsification Framework for Distributed DNNs Training, IEEE Transactions on Parallel and Distributed Systems, Special Section on Parallel and Distributed Computing Techniques for AI, ML, and DL, 2022. (**CCF-A** Journal for Distributed and Parallel Systems)
 
-**\[TPDS\]** **Zhaorui Zhang**, Cho-Li Wang, SaPus: Self-Adaptive Parameter Update Strategy for DNN Training on Multi-GPU Clusters, IEEE Transactions on Parallel and Distributed Systems, 2021, directly accepted by the first round of review. 
+**\[TPDS\]** **Zhaorui Zhang**, Cho-Li Wang, SaPus: Self-Adaptive Parameter Update Strategy for DNN Training on Multi-GPU Clusters, IEEE Transactions on Parallel and Distributed Systems, 2021, directly accepted by the first round of review. (**CCF-A** Journal for Distributed and Parallel Systems)
 
 **\[JPDC\]** **Zhaorui Zhang**, Zhuoran Ji, Cho-Li Wang, Momentum-Driven Adaptive Synchronization Model for Distributed DNN Training on HPC Clusters, Journal of Parallel and Distributed Computing, 2021. 
 
