@@ -69,9 +69,9 @@ on Artificial  Intelligence*. Jeju 03.08.24 - 09.08.24
 
 Publications:
 ======
-**\[TPDS\]** **Zhaorui Zhang**, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, Zhuoran Ji, Benben Liu, Khalid Ayed Alharithi, Jiannong Cao, Franck Cappello, FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression. IEEE Transactions on Parallel and Distributed Systems. (**CCF-A** Journal for Distributed and Parallel Systems)
+**\[TPDS 2025\]** **Zhaorui Zhang**, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, Zhuoran Ji, Benben Liu, Khalid Ayed Alharithi, Jiannong Cao, Franck Cappello, FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression. IEEE Transactions on Parallel and Distributed Systems. (**CCF-A** Journal for Distributed and Parallel Systems)
 
-**\[ACM Computing Survey\]** Sheng Di, Jinyang Liu, Kai Zhao, Xin Liang, Robert Underwood, **Zhaorui Zhang**, Milan Shan, Yafan Huang, Jiajun Huang, Xiaodong Yu, Congrong Ren, Haiqi Guo, Grant Wilkins, Dingwen Tao, Jiannan Tian, Sian Jin, Zizhe Jian, Daoce Wang, MD Hasanur Rahman, Boyuan Zhang, Shihui Song, Jon C. Calhoun, Guanpeng Li, Kazutomo Yoshii, Khalid Ayed Alharthi, Franck Cappello. A Survey on Error-Bounded Lossy Compression for Scientific Datasets. (**Impact Factor: 23.8 (ranked 1/143 in Computer Science Theory & Methods)**)
+**\[ACM Computing Survey 2025\]** Sheng Di, Jinyang Liu, Kai Zhao, Xin Liang, Robert Underwood, **Zhaorui Zhang**, Milan Shan, Yafan Huang, Jiajun Huang, Xiaodong Yu, Congrong Ren, Hanqi Guo, Grant Wilkins, Dingwen Tao, Jiannan Tian, Sian Jin, Zizhe Jian, Daoce Wang, MD Hasanur Rahman, Boyuan Zhang, Shihui Song, Jon C. Calhoun, Guanpeng Li, Kazutomo Yoshii, Khalid Ayed Alharthi, Franck Cappello. A Survey on Error-Bounded Lossy Compression for Scientific Datasets. (**Impact Factor: 23.8 (ranked 1/143 in Computer Science Theory & Methods)**)
 
 **\[ACM e-Energy 2025\]** Dan Wang, Boan Liu, Rui Lu, **Zhaorui Zhang**, Shuntao Zhu, StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices.
 
