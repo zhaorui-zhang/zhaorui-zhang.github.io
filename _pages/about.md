@@ -19,6 +19,12 @@ Email: zhaorui.zhang@polyu.edu.hk
 
 Address: PQ748, Mong Man Wai Building, PolyU
 
+Recent Opening! 
+======
+If you are interested in **large-scale models (LLMs) fine-tuning and inference optimization**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
+
+Currently, we have 3 position openings for the **Capstone Project** related to LLM and LLM inference, which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+
 
 Research Interests:
 ======
@@ -31,12 +37,6 @@ Research Interests:
 I am also interested in high-performance computing (HPC), distributed systems, data reduction, cloud computing, fault tolerance, and FPGA.
 
 <!-- which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning that aims to optimize the distributed deep learning system from both sides of the system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc. -->
-
-Opening! 
-======
-If you are interested in **large-scale models (LLMs) fine-tuning and inference optimization**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
-
-Currently, we have 3 position openings for the **Capstone Project** related to LLM and LLM inference, which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
 
 
 <!--We have several projects related to **large-scale models (LLMs) fine-tuning and inference optimization** recruiting students to join, including the **PhD student and other levels**. You are welcome to reach out and talk to me! We will provide hands-on guidance for your work! 
@@ -69,7 +69,7 @@ on Artificial  Intelligence*. Jeju 03.08.24 - 09.08.24
 
 **29 Nov. 2023**, Our paper "Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs" has been accepted by [PPoPP' 2024](https://conf.researchr.org/home/ppopp-2024), *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*. 2024 March 2nd – March 6th, 2024, Edinburgh, UK
 
-Publications:
+<!-- Publications:
 ======
 **\[TPDS 2025\]** **Zhaorui Zhang**, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, Zhuoran Ji, Benben Liu, Khalid Ayed Alharithi, Jiannong Cao, Franck Cappello, FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression. IEEE Transactions on Parallel and Distributed Systems. (**CCF-A** Journal for Distributed and Parallel Systems)
 
@@ -99,9 +99,9 @@ Xuebin Chi, Liping Liu, Yangang Wang, **Zhaorui Zhang**, etc., Development Repor
 
 **Zhaorui Zhang**, Xin Y, Liu B, Li WXY, Lee K.H., Ng C.F., Stoyanov D, Cheung RCC, Kwok KW, FPGA-based High-Performance Collision Detection: An Enabling Technique for Image-Guided Robotic Surgery, Frontiers in Robotics and AI, August 2016
 
-**\[TCBB\]** Yao Xin, Will X. Y. Li, **Zhaorui Zhang**, Ray C. C. Cheung, Dong Song, Theodore W. Berger, An Application Specific Instruction Set Processor (ASIP) for Adaptive Filters in Neural Prosthetics, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2015. 
+**\[TCBB\]** Yao Xin, Will X. Y. Li, **Zhaorui Zhang**, Ray C. C. Cheung, Dong Song, Theodore W. Berger, An Application Specific Instruction Set Processor (ASIP) for Adaptive Filters in Neural Prosthetics, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2015. -->
 
-Professional Services:
+<!-- Professional Services:
 ======
 **Conference Program Committee**: 
 
@@ -127,7 +127,7 @@ IEEE Transactions on Computers (TC)
 
 IEEE Transactions on Mobile Computing (TMC)
 
-IEEE Transactions on Consumer Electronics
+IEEE Transactions on Consumer Electronics -->
 
 <!-- Neural Computing and Applications (Journal-JCR:Q1) -->
 
@@ -165,14 +165,14 @@ Research Assistant in the Department of Electrical Engineering
 2. **Dec. 2021**: Invited Talk at **Future Network Theory Lab of Huawei Technologies(HK)**, talk about the gradient error constraints for distributed deep learning systems -->
 
 
-Professional Collaboration:
+<!-- Professional Collaboration:
 ======
 1. **HKUST**: X-GPU cluster, computing resources.
 2. **China National Grid**: helps to maintain the high-performance computing platform and publishes a book as a co-author, collaborating with the Computer Network Information Center of the Chinese Academy of Science.
-3. **AWS (public cloud)**: computing resources, help to invite the AWS's technique staff to give a talk at HKU.
+3. **AWS (public cloud)**: computing resources, help to invite the AWS's technique staff to give a talk at HKU. -->
 
 
-Teaching Experiences:
+<!-- Teaching Experiences:
 ======
 COMP4442: Service and Cloud Computing, Department of Computing, The Hong Kong Polytechnic University, 2023, 2024, 2025 Spring Semester
 
@@ -182,11 +182,11 @@ COMP7305: Cloud and Cluster Computing, Teaching Assistant, in the Department of 
 
 COMP8301: Advanced Topics in Computer Systems, Teaching Assistant, in the Department of Computer Science, The University of Hong Kong
 
-COMP9301: Systems Design and Implementation, Teaching Assistant, in the Department of Computer Science, The University of Hong Kong
+COMP9301: Systems Design and Implementation, Teaching Assistant, in the Department of Computer Science, The University of Hong Kong -->
 
 
-<a href="https://www.revolvermaps.com/livestats/5wcp2zejde4/"><img src="//rf.revolvermaps.com/h/m/a/2/ff0000/128/0/5wcp2zejde4.png" width="256" height="128" alt="Map" style="border:0;"></a>
+<!-- <a href="https://www.revolvermaps.com/livestats/5wcp2zejde4/"><img src="//rf.revolvermaps.com/h/m/a/2/ff0000/128/0/5wcp2zejde4.png" width="256" height="128" alt="Map" style="border:0;"></a> -->
 
 <a href="https://clustrmaps.com/site/1bqmb" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=n&d=URRu3SNqL-_PM1nHFvqU6E3fZlHcYj8OEfwEQTa89CI" /></a>
 
-Updated by Oct. 2022
+<!-- Updated by Oct. 2022 -->
