@@ -6,8 +6,11 @@
    - title: "Publications"
      url: /publications/
 
-   - title: "Talks"
-     url: /talks/    
+   - title: "Services"
+     url: /services/   
+
+   - title: "Team"
+     url: /team/
 
    - title: "Teaching"
      url: /teaching/    
@@ -21,5 +24,8 @@
   # - title: "CV"
   #   url: /cv/
     
-   - title: "Team"
-     url: /markdown/
+  # - title: "Team"
+  #   url: /markdown/
+
+  # - title: "Talks"
+  #   url: /talks/
