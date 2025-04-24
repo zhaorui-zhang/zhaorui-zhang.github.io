@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html). 
+I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) lead by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 
 
 
 I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), and very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
@@ -35,6 +35,8 @@ I am also interested in high-performance computing (HPC), distributed systems, d
 Opening! 
 ======
 If you are interested in **large-scale models (LLMs) fine-tuning and inference optimization**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
+
+Currently, we have 3 position openings for the **Capstone Project** related to LLM and LLM inference, which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
 
 
 <!--We have several projects related to **large-scale models (LLMs) fine-tuning and inference optimization** recruiting students to join, including the **PhD student and other levels**. You are welcome to reach out and talk to me! We will provide hands-on guidance for your work! 
