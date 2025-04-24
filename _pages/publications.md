@@ -22,7 +22,7 @@ Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=0
 - **A Survey on Error-Bounded Lossy Compression for Scientific Datasets** \
   Sheng Di, Jinyang Liu, Kai Zhao, Xin Liang, Robert Underwood, **Zhaorui Zhang**, Milan Shan, Yafan Huang, Jiajun Huang, Xiaodong Yu, Congrong Ren, Hanqi Guo, Grant Wilkins, Dingwen Tao, Jiannan Tian, Sian Jin, Zizhe Jian, Daoce Wang, MD Hasanur Rahman, Boyuan Zhang, Shihui Song, Jon C. Calhoun, Guanpeng Li, Kazutomo Yoshii, Khalid Ayed Alharthi, Franck Cappello \
   *ACM Computing Survey*, 2025 \
-  (**Impact Factor: 23.8 (ranked 1/143 in Computer Science Theory & Methods)**)
+  (**Impact Factor: 23.8, Ranked 1/143 in Computer Science Theory & Methods**)
 
 - **StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices** \
   Dan Wang, Boan Liu, Rui Lu, **Zhaorui Zhang**, Shuntao Zhu \
