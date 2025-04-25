@@ -1,26 +1,21 @@
----
+<!--
 layout: archive
 title: "Team"
 permalink: /team/
 author_profile: true
 ---
+-->
 
-Current Team:
-===
-
-## PhD Students:
-
+## Current Team:
+#### PhD Students:
 - Zichao Xia (BSc: Shanghai Jiao Tong University, Mphil: Shanghai Jiao Tong University, 2025-now)
 - Weiyang Ma (BSc: Beihang University, 2025-now)
 
 
-Alumni:
-===
-## Master Students:
-
+## <u>Alumni:</u>
+#### Master Students:
 - Haotian Xu (Now: PhD at Beijing Institute of Technology)
-
-## Capstone Project Students (Undergraduate Student Final Year Project):
+#### Capstone Project Students (Undergraduate Student Final Year Project):
 
 - Rongtao Yang (Now: ByteDance, Singapore)
 - Qianli Liu (Now: PhD at The Hong Kong University of Science and Technology)
