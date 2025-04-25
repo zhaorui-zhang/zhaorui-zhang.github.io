@@ -5,15 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=0UuCWq0AAAAJ&view_op=list_works&sortby=pubdate)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=0UuCWq0AAAAJ&view_op=list_works&sortby=pubdate)  
+**\*** represents my supervised students
 
 ## Preprints:
 
 - **CLLoRA: An Approach to Measure the Effects of the Context Length for LLM Fine-Tuning**, 2025 \
-  Ping Zhang, Zhaorui Zhang, Sheng Di, Yao Xin, Benben Liu
+  <u>Ping Zhang*</u>, **Zhaorui Zhang**, Sheng Di, Yao Xin, Benben Liu
 
 - **HLoRA: Efficient Federated Learning System for LLM Heterogeneous Fine-Tuning**, 2025 \
-  Qianli Liu, Zhaorui Zhang, Xin Yao, Benben Liu
+  <u>Qianli Liu*</u>, **Zhaorui Zhang**, Xin Yao, Benben Liu
   
 - **ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**, 2025 \
   Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Xiaoyi Lu, Ken Raffenetti, Hui Zhou, Kai Zhao, Khalid Alharthi, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur 
@@ -21,10 +22,6 @@ author_profile: true
 
 ## 2025:
 
-- **REFS: A Novel Framework for Accelerated Receive Encrypted Flow Steering** \
-  Zengxie Ma, Yao Xin, Ning Hu, Tong Li, **Zhaorui Zhang**, Feng Zhang \
-  *The Computer Journal*, 2025
-  
 - **FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression** \
   **Zhaorui Zhang**, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, Zhuoran Ji, Benben Liu, Khalid Ayed Alharithi, Jiannong Cao, Franck Cappello \
   *IEEE Transactions on Parallel and Distributed Systems* **\(TPDS\)**, 2025 \
@@ -39,6 +36,10 @@ author_profile: true
   Dan Wang, Boan Liu, Rui Lu, **Zhaorui Zhang**, Shuntao Zhu \
   *The 16th ACM International Conference on Future and Sustainable Energy Systems*, **\(ACM e-Energy\)**, 2025
 
+- **REFS: A Novel Framework for Accelerated Receive Encrypted Flow Steering** \
+  Zengxie Ma, Yao Xin, Ning Hu, Tong Li, **Zhaorui Zhang**, Feng Zhang \
+  *The Computer Journal*, 2025
+  
 ## 2024:
 
 - **A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs** \
@@ -52,7 +53,7 @@ author_profile: true
   (**CCF-A** Conference for High-Performance Computing)
 
 - **FedFa: A Fully Asynchronous Training Paradigm for Federated Learning** \
-  Haotian Xu, **Zhaorui Zhang**, Sheng Di, Benben Liu, Alharthi Khalid, Jiannong Cao \
+  <u>Haotian Xu*</u>, **Zhaorui Zhang**, Sheng Di, Benben Liu, Alharthi Khalid, Jiannong Cao \
   *International Joint Conference on Artificial Intelligence*, **\(IJCAI'24\)**, 2024 \
   (**CCF-A** Conference for AI Systems)
 
