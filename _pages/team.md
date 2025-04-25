@@ -1,10 +1,9 @@
-<!--
+---
 layout: archive
 title: "Team"
 permalink: /team/
 author_profile: true
 ---
--->
 
 ## Current Team:
 #### PhD Students:
