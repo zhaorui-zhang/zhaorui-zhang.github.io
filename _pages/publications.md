@@ -39,6 +39,10 @@ author_profile: true
 - **REFS: A Novel Framework for Accelerated Receive Encrypted Flow Steering** \
   Zengxie Ma, Yao Xin, Ning Hu, Tong Li, **Zhaorui Zhang**, Feng Zhang \
   *The Computer Journal*, 2025
+
+- **BLIP-Eye: Vision-Language Pre-training Classification Model for Eye Diseases Using OCT Scans** \
+  Khalid Ayed Alharthi, Saja A Alshahrani, Rasha O Alshahrani, Rahaf A Alshahrani, Ali Alshahrani, **Zhaorui Zhang** \
+  *International Conference on AI in Medicine and Healthcare*, 2025
   
 ## 2024:
 
