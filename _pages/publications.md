@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=0UuCWq0AAAAJ&view_op=list_works&sortby=pubdate)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=0UuCWq0AAAAJ&view_op=list_works&sortby=pubdate)
 ======
 
 ## 2025
 
-- **REFS:A Novel Framework for Accelerated Receive Encrypted Flow Steering** \
+- **REFS: A Novel Framework for Accelerated Receive Encrypted Flow Steering** \
   Zengxie Ma, Yao Xin, Ning Hu, Tong Li, **Zhaorui Zhang**, Feng Zhang \
   *The Computer Journal*, 2025
   
