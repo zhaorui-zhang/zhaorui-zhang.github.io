@@ -6,9 +6,20 @@ author_profile: true
 ---
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=0UuCWq0AAAAJ&view_op=list_works&sortby=pubdate)
-======
 
-## 2025
+## Preprints:
+
+- **CLLoRA: An Approach to Measure the Effects of the Context Length for LLM Fine-Tuning**, 2025 \
+  Ping Zhang, Zhaorui Zhang, Sheng Di, Yao Xin, Benben Liu
+
+- **HLoRA: Efficient Federated Learning System for LLM Heterogeneous Fine-Tuning**, 2025 \
+  Qianli Liu, Zhaorui Zhang, Xin Yao, Benben Liu
+  
+- **ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**, 2025 \
+  Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Xiaoyi Lu, Ken Raffenetti, Hui Zhou, Kai Zhao, Khalid Alharthi, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur 
+
+
+## 2025:
 
 - **REFS: A Novel Framework for Accelerated Receive Encrypted Flow Steering** \
   Zengxie Ma, Yao Xin, Ning Hu, Tong Li, **Zhaorui Zhang**, Feng Zhang \
@@ -28,7 +39,7 @@ author_profile: true
   Dan Wang, Boan Liu, Rui Lu, **Zhaorui Zhang**, Shuntao Zhu \
   *The 16th ACM International Conference on Future and Sustainable Energy Systems*, **\(ACM e-Energy\)**, 2025
 
-## 2024
+## 2024:
 
 - **A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs** \
   Zhuoran Ji, Jianyu Zhao, **Zhaorui Zhang**, Jiming Xu, Shoumeng Yan, Lei Ju \
@@ -55,9 +66,9 @@ author_profile: true
   *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*, **\(PPoPP'24\)**, 2024 \
   (**CCF-A** Conference for Distributed and Parallel Systems)
 
-## Before 2024
+## 2023 and Before:
 
-- **MIPD: An Adaptive Gradient Sparsification Framework for Distributed DNNs Trainin** \
+- **MIPD: An Adaptive Gradient Sparsification Framework for Distributed DNNs Training** \
   **Zhaorui Zhang**, Cho-Li Wang \
   *IEEE Transactions on Parallel and Distributed Systems* **\(TPDS\)**, 2022 \
   (**CCF-A** Journal for Distributed and Parallel Systems)
@@ -68,7 +79,7 @@ author_profile: true
   (**CCF-B** Journal for Distributed and Parallel Systems)
   
 - **Efficient Parameter Update Strategy for Distributed Deep Learning Systems**
-  **Zhaorui Zhang**
+  **Zhaorui Zhang** \
 *HKU Theses Online (HKUTO)*, 2021
 
 - **SaPus: Self-Adaptive Parameter Update Strategy for DNN Training on Multi-GPU Clusters** \
