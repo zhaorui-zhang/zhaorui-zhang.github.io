@@ -23,7 +23,9 @@ Recent Opening!
 ======
 If you are interested in **large-scale models (LLMs) fine-tuning and inference optimization**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
 
-Currently, we have 3 position openings for the **Capstone Project** related to LLM and LLM inference, which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+**Capstone Project**: Currently, we have 3 position openings for the **Capstone Project** related to LLM and LLM inference, which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+
+**Postdoc Positions**: We also have **Postdoc Positions** related to the large-scale machine learning system, checkpointing design and optimization. Welcome to reach out and join us!
 
 
 Research Interests:
