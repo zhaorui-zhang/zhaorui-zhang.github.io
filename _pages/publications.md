@@ -36,6 +36,11 @@ author_profile: true
   Dan Wang, Boan Liu, Rui Lu, **Zhaorui Zhang**, Shuntao Zhu \
   *The 16th ACM International Conference on Future and Sustainable Energy Systems*, **\(ACM e-Energy\)**, 2025
 
+- **Recursive Confidence Training for Pseudo-Labeling Calibration in Semi-Supervised Few-Shot Learning** \
+  Kunlei Jing, Hebo Ma, Lei Wen, Chen Zhang, **Zhaorui Zhang**, Lionel Ni \
+  *Transactions on Image Processing*, **\(TIP\)**, 2025 \
+  (**CCF-A** Journal for Image Processing)
+
 - **REFS: A Novel Framework for Accelerated Receive Encrypted Flow Steering** \
   Zengxie Ma, Yao Xin, Ning Hu, Tong Li, **Zhaorui Zhang**, Feng Zhang \
   *The Computer Journal*, 2025
