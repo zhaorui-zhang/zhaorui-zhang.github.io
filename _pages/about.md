@@ -59,6 +59,8 @@ Currently, We are looking for student interns who would like to work with us in 
 Recent Highlight:
 ======
 
+- **6 May. 2025**, Our paper "GlobaZip: An Interactive, Efficient Distributed Compression-as-a-Service Platform with Optimized Data Compression Techniques" was accepted by the [TPDS](https://www.computer.org/csdl/journal/td), *IEEE Transactions on Parallel and Distributed Systems, Special Section on New Tools and Techniques for the Distributed Computing Continuum (DCC)*.
+
 - **5 May. 2025**, Our paper "Recursive Confidence Training for Pseudo-Labeling Calibration in Semi-Supervised Few-Shot Learning" was accepted by the [TIP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing), *IEEE Transactions on Image Processing*.
   
 - **13 April. 2025**, Our paper "FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression" was accepted by the [TPDS](https://www.computer.org/csdl/journal/td), *IEEE Transactions on Parallel and Distributed Systems*.
