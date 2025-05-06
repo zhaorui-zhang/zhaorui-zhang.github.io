@@ -22,6 +22,11 @@ author_profile: true
 
 ## 2025:
 
+- **GlobaZip: An Interactive, Efficient Distributed Compression-as-a-Service Platform with Optimized Data Compression Techniques** \
+  Yuanjian Liu, Sheng Di, **Zhaorui Zhang**, Jiajun Huang, Kyle Chard, Ian Foster \
+  *IEEE Transactions on Parallel and Distributed Systems, Special Section on New Tools and Techniques for the Distributed Computing Continuum (DCC)* **\(TPDS-SS\)**, 2025 \
+  (**CCF-A** Journal for Distributed and Parallel Systems)
+  
 - **FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression** \
   **Zhaorui Zhang**, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, Zhuoran Ji, Benben Liu, Khalid Ayed Alharithi, Jiannong Cao, Franck Cappello \
   *IEEE Transactions on Parallel and Distributed Systems* **\(TPDS\)**, 2025 \
@@ -32,14 +37,14 @@ author_profile: true
   *ACM Computing Survey*, 2025 \
   (**Impact Factor: 23.8, Ranked 1/143 in Computer Science Theory & Methods**)
 
-- **StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices** \
-  Dan Wang, Boan Liu, Rui Lu, **Zhaorui Zhang**, Shuntao Zhu \
-  *The 16th ACM International Conference on Future and Sustainable Energy Systems*, **\(ACM e-Energy\)**, 2025
-
 - **Recursive Confidence Training for Pseudo-Labeling Calibration in Semi-Supervised Few-Shot Learning** \
   Kunlei Jing, Hebo Ma, Lei Wen, Chen Zhang, **Zhaorui Zhang**, Lionel Ni \
   *Transactions on Image Processing*, **\(TIP\)**, 2025 \
   (**CCF-A** Journal for Image Processing)
+
+- **StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices** \
+  Dan Wang, Boan Liu, Rui Lu, **Zhaorui Zhang**, Shuntao Zhu \
+  *The 16th ACM International Conference on Future and Sustainable Energy Systems*, **\(ACM e-Energy\)**, 2025
 
 - **REFS: A Novel Framework for Accelerated Receive Encrypted Flow Steering** \
   Zengxie Ma, Yao Xin, Ning Hu, Tong Li, **Zhaorui Zhang**, Feng Zhang \
