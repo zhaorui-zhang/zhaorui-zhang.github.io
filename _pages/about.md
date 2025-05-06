@@ -8,35 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) lead by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 
+I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) Lab lead by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 
 
 
-I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), and very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), and very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before studying at HKU, I used to work with [Prof. Ray C. C. Cheung](https://cityuhk-calas.github.io/people/) at [CALAS](https://cityuhk-calas.github.io/) Lab at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 <!-- I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html).-->
 
 Email: zhaorui.zhang@polyu.edu.hk
 
-Address: PQ748, Mong Man Wai Building, PolyU
+Address: PQ748, Mong Man Wai Building, Hong Kong Polytechnic University
 
-Recent Opening! 
+Opening! 
 ======
 If you are interested in **large-scale models (LLMs) fine-tuning and inference optimization**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
 
-- **Capstone Project**: Currently, we have 3 position openings for the **Capstone Project** related to LLM and LLM inference, which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+- **PhD**: We have PhD positions open for 25/26 now. If you are interested in LLM/MLsys, HPC, and Distributed Systems. Welcome to reach out and join us!
 
-- **Postdoc Positions**: We also have **Postdoc Positions** related to the large-scale machine learning system, checkpointing design and optimization. Welcome to reach out and join us!
+- **Postdoc Positions**: Currently, we have **Postdoc Positions** related to the large-scale machine learning system, checkpointing design and optimization. Welcome to reach out and join us!
+
+- **Capstone Project for Undergraduate Student at PolyU (FYP)**: We have positions openings every year for the **Capstone Project** related to LLM and LLM inference, which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+
+- **MSc Dissertaion/Thesis at PolyU**: We have positions openings every year for the **MSc Dissertaion/Thesis** related to LLM and LLM inference, which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+
+
 
 
 Research Interests:
 ======
-<h3> AI Infrastructure, MLSys, LLMs: </h3>
+<h3> LLMs, Agentic AI, MLSys, AI Infrastructure: </h3>
 
-**Large-Scale Model (LLMs) Training, Fine-Tuning, Checkpointing, and Inference Optimization.** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
+- **Large-Scale Model (LLMs) Training, Fine-Tuning, Checkpointing, and Inference Optimization.** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
 
-<h3> HPC, Distributed Systems, Cloud Computing: </h3>
+<h3> HPC, Distributed Systems, Cloud Computing, FPGAs: </h3>
 
-I am also interested in high-performance computing (HPC), distributed systems, data reduction, cloud computing, fault tolerance, and FPGA.
+- I am also interested in high-performance computing (HPC), distributed systems, data reduction, cloud computing, error-bounded lossy compression, fault tolerance, and FPGA.
 
 <!-- which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning that aims to optimize the distributed deep learning system from both sides of the system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc. -->
 
@@ -50,26 +56,29 @@ If you are interested in my research, we are actively looking for motivated coll
 Currently, We are looking for student interns who would like to work with us in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV. We welcome different-level students to reach out. -->
 
 
-News:
+Recent Highlight:
 ======
-**13 April. 2025**, Our paper "FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression" was accepted by the [TPDS](https://www.computer.org/csdl/journal/td), *IEEE Transactions on Parallel and Distributed Systems*.
 
-**7 April. 2025**, Our Survey paper about the lossy compression "**A Survey on Error-Bounded Lossy Compression for Scientific Datasets**" has been accepted by the [ACM Computing Survey](https://dl.acm.org/journal/csur). This work offers a comprehensive survey and analysis of lossy compression techniques for scientific data across various domains, including climate, seismic, medical, time series, point cloud, and AI data. Welcome to read and cite our survey paper!!!
+- **5 May. 2025**, Our paper "Recursive Confidence Training for Pseudo-Labeling Calibration in Semi-Supervised Few-Shot Learning" was accepted by the [TIP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing), *IEEE Transactions on Image Processing*.
+  
+- **13 April. 2025**, Our paper "FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression" was accepted by the [TPDS](https://www.computer.org/csdl/journal/td), *IEEE Transactions on Parallel and Distributed Systems*.
 
-**29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ".
+- **7 April. 2025**, Our Survey paper about the lossy compression "**A Survey on Error-Bounded Lossy Compression for Scientific Datasets**" has been accepted by the [ACM Computing Survey](https://dl.acm.org/journal/csur). This work offers a comprehensive survey and analysis of lossy compression techniques for scientific data across various domains, including climate, seismic, medical, time series, point cloud, and AI data. Welcome to read and cite our survey paper!!!
 
-**26 Nov. 2024**, Our paper "StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices" has been accepted by [ACM e-Energy 2025](https://energy.acm.org/conferences/eenergy/2025/). *The 16th ACM International Conference on Future and Sustainable Energy Systems*. Rotterdam, Netherlands, June 17 - 20, 2025
+- **29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ".
 
-**18 July 2024**, Our paper "A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs" has been accepted by [Micro' 2024](https://microarch.org/micro57/). *57th IEEE/ACM International Symposium on Microarchitecture*. November 2 – November 6, 2024. Austin, Texas, USA
+- **26 Nov. 2024**, Our paper "StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices" has been accepted by [ACM e-Energy 2025](https://energy.acm.org/conferences/eenergy/2025/). *The 16th ACM International Conference on Future and Sustainable Energy Systems*. Rotterdam, Netherlands, June 17 - 20, 2025
 
-**14 June 2024**, Our paper "Versatile Datapath Soft Error Detection on the Cheap for HPC Applications" has been accepted by [SC'2024](https://sc24.supercomputing.org/) *The International Conference for High-Performance Computing, Networking, Storage and Analysis*. Atlanta, GA, USA, NOV 17–22
+- **18 July 2024**, Our paper "A Compiler-Like Framework for Optimizing Cryptographic Big Integer Multiplication on GPUs" has been accepted by [Micro' 2024](https://microarch.org/micro57/). *57th IEEE/ACM International Symposium on Microarchitecture*. November 2 – November 6, 2024. Austin, Texas, USA
 
-**17 April 2024**, Our paper "FedFa: A Fully Asynchronous Training Paradigm for Federated Learning" has been accepted by [IJCAI' 2024](https://ijcai24.org/) *International Joint Conference
+- **14 June 2024**, Our paper "Versatile Datapath Soft Error Detection on the Cheap for HPC Applications" has been accepted by [SC'2024](https://sc24.supercomputing.org/) *The International Conference for High-Performance Computing, Networking, Storage and Analysis*. Atlanta, GA, USA, NOV 17–22
+
+- **17 April 2024**, Our paper "FedFa: A Fully Asynchronous Training Paradigm for Federated Learning" has been accepted by [IJCAI' 2024](https://ijcai24.org/) *International Joint Conference
 on Artificial  Intelligence*. Jeju 03.08.24 - 09.08.24
 
-**31 Jan. 2024**, Our paper "An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression" has been accepted by [IPDPS' 2024](https://www.ipdps.org/ipdps2024/) *38th IEEE International Parallel & Distributed Processing Symposium*. May 27-31, 2024, San Francisco, California USA
+- **31 Jan. 2024**, Our paper "An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression" has been accepted by [IPDPS' 2024](https://www.ipdps.org/ipdps2024/) *38th IEEE International Parallel & Distributed Processing Symposium*. May 27-31, 2024, San Francisco, California USA
 
-**29 Nov. 2023**, Our paper "Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs" has been accepted by [PPoPP' 2024](https://conf.researchr.org/home/ppopp-2024), *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*. 2024 March 2nd – March 6th, 2024, Edinburgh, UK
+- **29 Nov. 2023**, Our paper "Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs" has been accepted by [PPoPP' 2024](https://conf.researchr.org/home/ppopp-2024), *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*. 2024 March 2nd – March 6th, 2024, Edinburgh, UK
 
 <!-- Publications:
 ======
@@ -140,9 +149,8 @@ I received my Ph.D. degree from the System Research Group at the [Department of 
 
 Academic Employment Experiences:
 ======
-**The Hong Kong Polytechnic University**
-
-Research Assistant Professor in the Department of Computing
+- **The Hong Kong Polytechnic University** \
+  Research Assistant Professor in the Department of Computing
 
 <!--**The University of Hong Kong**
 
