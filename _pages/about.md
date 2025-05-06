@@ -11,7 +11,7 @@ redirect_from:
 I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) Lab lead by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 
 
 
-I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), and very fortunate to work with my supervisor Professor [Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before studying at HKU, I used to work with [Prof. Ray C. C. Cheung](https://cityuhk-calas.github.io/people/) at [CALAS](https://cityuhk-calas.github.io/) Lab at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), and very fortunate to work with my supervisor [Prof. Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before studying at HKU, I used to work with [Prof. Ray C. C. Cheung](https://cityuhk-calas.github.io/people/) in [CALAS](https://cityuhk-calas.github.io/) Lab at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 <!-- I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html).-->
 
@@ -21,15 +21,15 @@ Address: PQ748, Mong Man Wai Building, Hong Kong Polytechnic University
 
 Opening! 
 ======
-If you are interested in **large-scale models (LLMs) fine-tuning and inference optimization**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
+If you are interested in **LLMs fine-tuning and inference optimization, Agentic AI**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
 
-- **PhD**: We have PhD positions open for 25/26 now. If you are interested in LLM/MLsys, HPC, and Distributed Systems. Welcome to reach out and join us!
+- **PhD**: We have PhD positions open for 25/26 now. If you are interested in LLM/MLsys, Agentic AI, HPC, and Distributed Systems. Welcome to reach out and join us!
 
 - **Postdoc Positions**: Currently, we have **Postdoc Positions** related to the large-scale machine learning system, checkpointing design and optimization. Welcome to reach out and join us!
 
-- **Capstone Project for Undergraduate Student at PolyU (FYP)**: We have positions openings every year for the **Capstone Project** related to LLM and LLM inference, which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+- **Capstone Project/URIS Project for Undergraduate Student at PolyU (FYP)**: We have positions openings every year for the Capstone Project and URIS project related to LLM, LLM inference, and Agentic AI which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
 
-- **MSc Dissertaion/Thesis at PolyU**: We have positions openings every year for the **MSc Dissertaion/Thesis** related to LLM and LLM inference, which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+- **MSc Dissertaion/Thesis at PolyU**: We have positions openings every year for the **MSc Dissertaion/Thesis** related to LLM, LLM inference, and Agentic AI which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
 
 
 
@@ -38,7 +38,7 @@ Research Interests:
 ======
 <h3> LLMs, Agentic AI, MLSys, AI Infrastructure: </h3>
 
-- **Large-Scale Model (LLMs) Training, Fine-Tuning, Checkpointing, and Inference Optimization.** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
+- **LLMs Fine-Tuning, Checkpointing, and Inference Optimization, Agentic AI:** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
 
 <h3> HPC, Distributed Systems, Cloud Computing, FPGAs: </h3>
 
