@@ -85,10 +85,10 @@ author:
   bio              : "RAP, PolyU, HK"
   location         : "Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=0UuCWq0AAAAJ&hl=en"
   email            : "zhaorui.zhang@polyu.edu.hk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zhaorui_Zhang7?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
+  dblp             : "https://dblp.org/pid/168/8083.html"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/zhaorui-zhang-b2608682/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0284-1113"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://x.com/zhaoruizhang_cn"
   vine             :
   weibo            :
   xing             :
