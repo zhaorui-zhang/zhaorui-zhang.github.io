@@ -7,6 +7,10 @@ author_profile: true
 
 ## <u>Conference/Workshop Program Committee:</u>
 
+### 2026:
+
+- **SCA/HPCAsia' 26**: The Supercomputing Asia conference (SCA) 2026 & The International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia) 2026, [SCA/HPCAsia' 26](https://www.sca-hpcasia2026.jp/index.html)
+
 ### 2025:
 
 - **SC' 25**: The International Conference for High-Performance Computing, Networking, Storage and Analysis, [SC' 25](https://sc25.supercomputing.org/)
