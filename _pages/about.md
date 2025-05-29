@@ -61,7 +61,7 @@ Recent Highlight:
 
 ## Services:
 
-- **28 May. 2025**, We are organizing the [Data Compression & Reduction Workshop](https://conferences.cis.um.edu.mo/ieeebigdata2025/workshops.html) at [IEEE Big Data 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025/index.html). Welcome to submit!
+- **28 May. 2025**, We are organizing the [Data Reduction Workshop](https://conferences.cis.um.edu.mo/ieeebigdata2025/workshops.html) at [IEEE Big Data 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025/index.html). Welcome to submit!
 
 - **29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ".
 
