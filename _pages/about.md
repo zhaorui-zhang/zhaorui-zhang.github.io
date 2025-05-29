@@ -59,6 +59,14 @@ Currently, We are looking for student interns who would like to work with us in 
 Recent Highlight:
 ======
 
+## Services:
+
+- **28 May. 2025**, We are organizing the [Data Compression & Reduction Workshop](https://conferences.cis.um.edu.mo/ieeebigdata2025/workshops.html) at [IEEE Big Data 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025/index.html). Welcome to submit!
+
+- **29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ".
+
+## Publications:
+
 - **6 May. 2025**, Our paper "Ocelot: An Interactive, Efficient Distributed Compression-As-a-Service Platform With Optimized Data Compression Techniques" was accepted by the [TPDS](https://www.computer.org/csdl/journal/td), *IEEE Transactions on Parallel and Distributed Systems, Special Section on New Tools and Techniques for the Distributed Computing Continuum (DCC)*.
 
 - **5 May. 2025**, Our paper "Recursive Confidence Training for Pseudo-Labeling Calibration in Semi-Supervised Few-Shot Learning" was accepted by the [TIP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing), *IEEE Transactions on Image Processing*.
@@ -66,8 +74,6 @@ Recent Highlight:
 - **13 April. 2025**, Our paper "FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression" was accepted by the [TPDS](https://www.computer.org/csdl/journal/td), *IEEE Transactions on Parallel and Distributed Systems*.
 
 - **7 April. 2025**, Our Survey paper about the lossy compression "**A Survey on Error-Bounded Lossy Compression for Scientific Datasets**" has been accepted by the [ACM Computing Survey](https://dl.acm.org/journal/csur). This work offers a comprehensive survey and analysis of lossy compression techniques for scientific data across various domains, including climate, seismic, medical, time series, point cloud, and AI data. Welcome to read and cite our survey paper!!!
-
-- **29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ".
 
 - **26 Nov. 2024**, Our paper "StoreLLM: Energy Efficient Large Language Model Inference with Permanently Pre-stored Attention Matrices" has been accepted by [ACM e-Energy 2025](https://energy.acm.org/conferences/eenergy/2025/). *The 16th ACM International Conference on Future and Sustainable Energy Systems*. Rotterdam, Netherlands, June 17 - 20, 2025
 
@@ -151,8 +157,8 @@ I received my Ph.D. degree from the System Research Group at the [Department of 
 
 Academic Employment Experiences:
 ======
-- **The Hong Kong Polytechnic University** \
-  Research Assistant Professor in the Department of Computing
+- **The Hong Kong Polytechnic University** 
+  - Research Assistant Professor in the Department of Computing
 
 <!--**The University of Hong Kong**
 
