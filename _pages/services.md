@@ -5,6 +5,14 @@ permalink: /services/
 author_profile: true
 ---
 
+## <u>Conference/Workshop Organizer Committee:</u>
+
+### 2025:
+
+- **IEEE Big Data' 25**: 2025 IEEE International Conference on Big Data, [IEEE Big Data' 25](https://conferences.cis.um.edu.mo/ieeebigdata2025/index.html)
+  - **Workshop: The 5th International Workshop on Big Data Reduction (IWBDR-5)**, [Data Compression and Reduction](https://conferences.cis.um.edu.mo/ieeebigdata2025/workshops.html)
+
+
 ## <u>Conference/Workshop Program Committee:</u>
 
 ### 2026:
