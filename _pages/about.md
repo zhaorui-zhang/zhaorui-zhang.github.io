@@ -21,7 +21,7 @@ Address: PQ748, Mong Man Wai Building, Hong Kong Polytechnic University
 
 Opening! 
 ======
-<font color='green'><b>If you are interested in **LLMs fine-tuning and inference optimization, Agentic AI**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!</b></font>
+If you are interested in **LLMs fine-tuning and inference optimization, Agentic AI**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
 
 - **PhD**: We have PhD positions open for 25/26 now. If you are interested in LLM/MLsys, Agentic AI, HPC, and Distributed Systems. Welcome to reach out and join us!
 
@@ -31,6 +31,7 @@ Opening!
 
 - **MSc Dissertaion/Thesis at PolyU**: We have positions openings every year for the **MSc Dissertaion/Thesis** related to LLM, LLM inference, and Agentic AI which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
 
+<!--<font color='green'><b>If you are interested in **LLMs fine-tuning and inference optimization, Agentic AI**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!</b></font>-->
 
 Research Interests:
 ======
