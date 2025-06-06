@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) Lab lead by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 
+I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) lead by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 
 
 
 I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), and very fortunate to work with my supervisor [Prof. Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before studying at HKU, I used to work with [Prof. Ray C. C. Cheung](https://cityuhk-calas.github.io/people/) in [CALAS](https://cityuhk-calas.github.io/) Lab at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
@@ -39,9 +39,9 @@ Research Interests:
 
 - **LLMs Fine-Tuning, Checkpointing, and Inference Optimization, Agentic AI:** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
 
-<h3> HPC, Distributed Systems, Cloud Computing, FPGAs: </h3>
+<h3> HPC, Parallel and Distributed Systems, Cloud Computing, FPGAs: </h3>
 
-- I am also interested in high-performance computing (HPC), distributed systems, data reduction, cloud computing, error-bounded lossy compression, fault tolerance, and FPGA.
+- I am also interested in high-performance computing (HPC), parallel and distributed systems, data reduction, cloud computing, error-bounded lossy compression, fault tolerance, and FPGA.
 
 <!-- which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning that aims to optimize the distributed deep learning system from both sides of the system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc. -->
 
