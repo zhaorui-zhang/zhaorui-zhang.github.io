@@ -22,6 +22,11 @@ author_profile: true
 
 ## 2025:
 
+- **FedEFsz: Fair Cross-Silo Federated Learning System with Error-Bounded Lossy Compression** \
+  **Zhaorui Zhang**, Sheng Di, Benben Liu, Zhuoran Ji, Guanpeng Li, Xiaoyi Lu, Amelie Chi Zhou, Khalid Ayed Alharithi, Jiannong Cao \
+  *IEEE Transactions on Parallel and Distributed Systems, Special Section on New Tools and Techniques for the Distributed Computing Continuum (DCC)* **\(TPDS-SS\)**, 2025 \
+  (**CCF-A** Journal for Distributed and Parallel Systems)
+  
 - **Ocelot: An Interactive, Efficient Distributed Compression-As-a-Service Platform With Optimized Data Compression Techniques** \
   Yuanjian Liu, Sheng Di, Jiajun Huang, **Zhaorui Zhang**, Kyle Chard, Ian Foster \
   *IEEE Transactions on Parallel and Distributed Systems, Special Section on New Tools and Techniques for the Distributed Computing Continuum (DCC)* **\(TPDS-SS\)**, 2025 \
