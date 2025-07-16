@@ -40,4 +40,5 @@ author_profile: true
 - IEEE Transactions on Computers **(TC)**
 - IEEE/ACM Transactions on Networking **(TON)**
 - IEEE Transactions on Mobile Computing **(TMC)**
+- The Journal of Supercomputing **(TJSC)**
 <!-- IEEE Transactions on Consumer Electronics -->
