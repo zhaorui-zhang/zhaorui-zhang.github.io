@@ -23,7 +23,7 @@ author_profile: true
 ## 2025:
 
 - **A Dynamic Virtual Memory Management System for LLMs on AI Chips** \
-  <u>Gaolin Wei*</u>, **Zhaorui Zhang**, Jiaqi Xu, Chen Zhang, Xin Yao, Benben Liu \
+  <u>Gaolin Wei*</u>, **Zhaorui Zhang**, <u>Jiaqi Xu*</u>, Chen Zhang, Xin Yao, Benben Liu \
   *The 43rd IEEE International Conference on Computer Design* **\(ICCD\)**, 2025 \
   (**CCF-B** Conference for Computer Systems)
 
