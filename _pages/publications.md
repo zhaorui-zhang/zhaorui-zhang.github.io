@@ -22,6 +22,11 @@ author_profile: true
 
 ## 2025:
 
+- **A Dynamic Virtual Memory Management System for LLMs on AI Chips** \
+  <u>Gaolin Wei*</u>, **Zhaorui Zhang**, Jiaqi Xu, Chen Zhang, Xin Yao, Benben Liu \
+  *The 43rd IEEE International Conference on Computer Design* **\(ICCD\)**, 2025 \
+  (**CCF-B** Conference for Computer Systems)
+
 - **FedEFsz: Fair Cross-Silo Federated Learning System with Error-Bounded Lossy Compression** \
   **Zhaorui Zhang**, Sheng Di, Benben Liu, Zhuoran Ji, Guanpeng Li, Xiaoyi Lu, Amelie Chi Zhou, Khalid Ayed Alharithi, Jiannong Cao \
   *IEEE Transactions on Parallel and Distributed Systems, Special Section on New Tools and Techniques for the Distributed Computing Continuum (DCC)* **\(TPDS-SS\)**, 2025 \
