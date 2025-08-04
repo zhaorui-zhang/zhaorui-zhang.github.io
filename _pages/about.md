@@ -66,6 +66,8 @@ Recent Highlight:
 
 ## Publications:
 
+- **1 Aug. 2025**, Our paper "A Dynamic Virtual Memory Management System for LLMs on AI Chips" was accepted by the [ICCD](https://www.iccd-conf.com/home.html), *The 43rd IEEE International Conference on Computer Design (ICCD 2025)*.
+
 - **16 July 2025**, Our paper "FedEFsz: Fair Cross-Silo Federated Learning System with Error-Bounded Lossy Compression" was accepted by the [TPDS](https://www.computer.org/csdl/journal/td), *IEEE Transactions on Parallel and Distributed Systems, Special Section on New Tools and Techniques for the Distributed Computing Continuum (DCC)*.
 
 - **6 May. 2025**, Our paper "Ocelot: An Interactive, Efficient Distributed Compression-As-a-Service Platform With Optimized Data Compression Techniques" was accepted by the [TPDS](https://www.computer.org/csdl/journal/td), *IEEE Transactions on Parallel and Distributed Systems, Special Section on New Tools and Techniques for the Distributed Computing Continuum (DCC)*.
