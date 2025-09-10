@@ -22,6 +22,11 @@ author_profile: true
 
 ## 2025:
 
+- **Compression Error Sensitivity Analysis for Different Experts in MoE Model Inference** \
+  <u>Songkai Ma*</u>, **Zhaorui Zhang**, Sheng Di, Benben Liu, Xiaodong Yu, Xiaoyi Lu, Dan Wang \
+  *The International Conference for High-Performance Computing, Networking, Storage and Analysis, DRBSD Workshop*, **\(SC'25\)**, 2025 \
+  (**CCF-A** Conference for High-Performance Computing)
+  
 - **A Dynamic Virtual Memory Management System for LLMs on AI Chips** \
   <u>Gaolin Wei*</u>, **Zhaorui Zhang**, <u>Jiaqi Xu*</u>, Chen Zhang, Xin Yao, Benben Liu \
   *The 43rd IEEE International Conference on Computer Design* **\(ICCD\)**, 2025 \
