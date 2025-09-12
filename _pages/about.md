@@ -66,7 +66,7 @@ Recent Highlight:
 
 ## Publications:
 
-- **6 Sept. 2025**, We will present our paper "Compression Error Sensitivity Analysis for Different Experts in MoE Model Inference" at the workshop of [SC' 25](https://sc25.supercomputing.org/), *The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2025)*, NOV 16–21, 2025, St. louis, MO, USA.
+- **6 Sep. 2025**, We will present our paper "Compression Error Sensitivity Analysis for Different Experts in MoE Model Inference" at the workshop of [SC' 25](https://sc25.supercomputing.org/), *The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2025)*, NOV 16–21, 2025, St. louis, MO, USA.
   
 - **1 Aug. 2025**, Our paper "A Dynamic Virtual Memory Management System for LLMs on AI Chips" was accepted by the [ICCD' 25](https://www.iccd-conf.com/home.html), *The 43rd IEEE International Conference on Computer Design (ICCD 2025)*, November 10-12, 2025, Dallas, USA.
 
