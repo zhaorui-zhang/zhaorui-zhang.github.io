@@ -19,7 +19,13 @@ author_profile: true
 - **ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**, 2025 \
   Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Xiaoyi Lu, Ken Raffenetti, Hui Zhou, Kai Zhao, Khalid Alharthi, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur 
 
+## 2026:
 
+- **MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommender Systems** \
+  <u>Jialin Liu*</u>, **Zhaorui Zhang**, Ray C. C. Cheung\
+  *The 40th Annual AAAI Conference on Artificial Intelligence*, **\(AAAI' 26\)**, 2026 \
+  (**CCF-A** Conference for AI System)
+  
 ## 2025:
 
 - **Compression Error Sensitivity Analysis for Different Experts in MoE Model Inference** \
