@@ -28,6 +28,11 @@ author_profile: true
   
 ## 2025:
 
+- **FastREI: Fast Rare Event Identification on X-ray Data with Cross-Stage Optimizations** \
+Ziyu Hu, Jiamin Wang, Zhiqing Zhong, Weijian Zheng, Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, **Zhaorui Zhang**, Rajkumar Kettimuthu, and Xiaodong Yu \
+  *2025 IEEE International Conference on Big Data*, 2025 \
+  (**CCF-C** Conference for Big Data Systems)
+  
 - **Compression Error Sensitivity Analysis for Different Experts in MoE Model Inference** \
   <u>Songkai Ma*</u>, **Zhaorui Zhang**, Sheng Di, Benben Liu, Xiaodong Yu, Xiaoyi Lu, Dan Wang \
   *The International Conference for High-Performance Computing, Networking, Storage and Analysis, DRBSD Workshop*, **\(SC'25\)**, 2025 \
