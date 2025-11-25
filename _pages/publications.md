@@ -32,10 +32,20 @@ author_profile: true
 Ziyu Hu, Jiamin Wang, Zhiqing Zhong, Weijian Zheng, Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, **Zhaorui Zhang**, Rajkumar Kettimuthu, and Xiaodong Yu \
   *2025 IEEE International Conference on Big Data*, 2025 \
   (**CCF-C** Conference for Big Data Systems)
+
+- **TensorNTT: Architecture-Aware Optimizations for Number-Theoretic Transform on Tensor Core Unit** \
+Xiangkai Yin, Shuoyu Wang, **Zhaorui Zhang**, Zimeng Zhou, Lei Ju, and Zhuoran Ji \
+  *2025 IEEE International Conference on Big Data*, 2025 \
+  (**CCF-C** Conference for Big Data Systems)
   
 - **Compression Error Sensitivity Analysis for Different Experts in MoE Model Inference** \
   <u>Songkai Ma*</u>, **Zhaorui Zhang**, Sheng Di, Benben Liu, Xiaodong Yu, Xiaoyi Lu, Dan Wang \
   *The International Conference for High-Performance Computing, Networking, Storage and Analysis, DRBSD Workshop*, **\(SC'25\)**, 2025 \
+  (**CCF-A** Conference for High-Performance Computing)
+
+- **Can Lossy Compression Benefit NVMe-based I/O?** \
+  Darren Ng, Sheng Di Duo Zhang, **Zhaorui Zhang**, Xiaoyi Lu \
+  *The International Conference for High-Performance Computing, Networking, Storage and Analysis, Poster*, **\(SC'25\)**, 2025 \
   (**CCF-A** Conference for High-Performance Computing)
   
 - **A Dynamic Virtual Memory Management System for LLMs on AI Chips (GPUs)** \
