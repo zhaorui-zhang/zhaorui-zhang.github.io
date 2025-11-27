@@ -28,6 +28,11 @@ author_profile: true
   
 ## 2025:
 
+- **DeepEBC: Compressing the Pre-Trained LLMs with Error-Bounded Lossy Compression** \
+<u>Jiaqi Xu*</u>, **Zhaorui Zhang**, <u>Gaolin Wei*</u>, Sheng Di, Benben Liu, Xiaodong Yu, Xiaoyi Lu \
+  *2025 The International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia) & The SupercomputingAsia (SCA)*, **\(SCA/HPCAsia'25\)**, 2025 \
+  (**CCF-C** Conference for High Performance Computing and Supercomputing)
+
 - **FastREI: Fast Rare Event Identification on X-ray Data with Cross-Stage Optimizations** \
 Ziyu Hu, Jiamin Wang, Zhiqing Zhong, Weijian Zheng, Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, **Zhaorui Zhang**, Rajkumar Kettimuthu, and Xiaodong Yu \
   *2025 IEEE International Conference on Big Data*, 2025 \
@@ -49,7 +54,7 @@ Xiangkai Yin, Shuoyu Wang, **Zhaorui Zhang**, Zimeng Zhou, Lei Ju, and Zhuoran J
   (**CCF-A** Conference for High-Performance Computing)
   
 - **A Dynamic Virtual Memory Management System for LLMs on AI Chips (GPUs)** \
-  <u>Gaolin Wei*</u>, **Zhaorui Zhang**, <u>Jiaqi Xu*</u>, Chen Zhang, Benben Liu \
+  <u>Gaolin Wei*</u>, **Zhaorui Zhang**, <u>Jiaqi Xu*</u>, Chen Zhang, Benben Liu, Xin Yao\
   *The 43rd IEEE International Conference on Computer Design* **\(ICCD\)**, 2025 \
   (**CCF-B** Conference for Computer Systems)
 
