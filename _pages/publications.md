@@ -21,17 +21,17 @@ author_profile: true
 
 ## 2026:
 
+- **DeepEBC: Compressing the Pre-Trained LLMs with Error-Bounded Lossy Compression** \
+<u>Jiaqi Xu*</u>, **Zhaorui Zhang**, <u>Gaolin Wei*</u>, Sheng Di, Benben Liu, Xiaodong Yu, Xiaoyi Lu \
+  *2026 The International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia) & The SupercomputingAsia (SCA)*, **\(SCA/HPCAsia'26\)**, 2026 \
+  (**CCF-C** Conference for High Performance Computing and Supercomputing)
+  
 - **MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommender Systems** \
   <u>Jialin Liu*</u>, **Zhaorui Zhang**, Ray C. C. Cheung\
   *The 40th Annual AAAI Conference on Artificial Intelligence*, **\(AAAI' 26\)**, 2026 \
   (**CCF-A** Conference for AI System)
   
 ## 2025:
-
-- **DeepEBC: Compressing the Pre-Trained LLMs with Error-Bounded Lossy Compression** \
-<u>Jiaqi Xu*</u>, **Zhaorui Zhang**, <u>Gaolin Wei*</u>, Sheng Di, Benben Liu, Xiaodong Yu, Xiaoyi Lu \
-  *2025 The International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia) & The SupercomputingAsia (SCA)*, **\(SCA/HPCAsia'25\)**, 2025 \
-  (**CCF-C** Conference for High Performance Computing and Supercomputing)
 
 - **FastREI: Fast Rare Event Identification on X-ray Data with Cross-Stage Optimizations** \
 Ziyu Hu, Jiamin Wang, Zhiqing Zhong, Weijian Zheng, Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, **Zhaorui Zhang**, Rajkumar Kettimuthu, and Xiaodong Yu \
