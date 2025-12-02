@@ -17,8 +17,7 @@ author_profile: true
 
 ### 2026:
 
-- **SC' 26**: The International Conference for High-Performance Computing, Networking, Storage and Analysis, [SC' 26](https://sc26.supercomputing.org/)
-
+- **SC' 26**: The International Conference for High-Performance Computing, Networking, Storage and Analysis, [SC' 26](https://sc26.supercomputing.org/).
 - **SCA/HPCAsia' 26**: The Supercomputing Asia conference (SCA) 2026 & The International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia) 2026, [SCA/HPCAsia' 26](https://www.sca-hpcasia2026.jp/index.html)
 - **ICLR' 26**: The Fourteenth International Conference on Learning Representations, 2026, [ICLR' 26](https://iclr.cc/)
 - **AAAI' 26**: The 40th Annual AAAI Conference on Artificial Intelligence, 2026, [AAAI' 26](https://aaai.org/conference/aaai/aaai-26/)
