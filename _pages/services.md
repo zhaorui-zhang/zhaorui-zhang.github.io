@@ -5,7 +5,12 @@ permalink: /services/
 author_profile: true
 ---
 
-## <u>Conference/Workshop Organizer Committee:</u>
+## <u>Conference/Workshop/Tutorial Organizer Committee:</u>
+
+### 2026:
+
+- **HPDC'26**: [HPDC'26](https://hpdc.sci.utah.edu/2026/), *The 35th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Cleveland, OH, USA, July 13-16, 2026.
+  - **Tutorial:** The 1th Tutorial about When the Error-Bounded Lossy Compression Meets Large-Scale AI Model Training and Fine-Tuning in Federated Environments.
 
 ### 2025:
 
