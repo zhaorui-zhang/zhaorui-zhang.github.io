@@ -23,13 +23,13 @@ Opening!
 ======
 If you are interested in **LLMs fine-tuning and inference optimization, Agentic AI**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
 
-- **PhD**: We have PhD positions open for 25/26 now. If you are interested in LLM/MLsys, Agentic AI, HPC, and Distributed Systems. Welcome to reach out and join us!
+- **PhD**: We have PhD positions open for 26/27 now. If you are interested in LLM/MLsys, Agentic AI, HPC, and Distributed Systems. Welcome to reach out and join us! We will send the interview invitation before the PhD application deadline (generally, the deadline is January every year), so if you don't receive a timely reply from us, please don't be discouraged and kindly wait patiently, we appreciate your patience!
 
 - **Postdoc Positions**: Currently, we have **Postdoc Positions** related to the large-scale machine learning system, checkpointing design and optimization. Welcome to reach out and join us!
 
-- **Capstone Project/URIS Project for Undergraduate Student at PolyU (FYP)**: We have positions openings every year for the Capstone Project and URIS project related to LLM, LLM inference, and Agentic AI which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
-
-- **MSc Dissertaion/Thesis at PolyU**: We have positions openings every year for the **MSc Dissertaion/Thesis** related to LLM, LLM inference, and Agentic AI which will collaborate with the industry. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+- **MSc Dissertaion/Thesis at PolyU**: We have positions opening every year for the **MSc Dissertation/Thesis** related to LLM, LLM inference, and Agentic AI, which will collaborate with the industry. We can provide industry intern opportunities. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+  
+- **Capstone Project/URIS Project for Undergraduate Student at PolyU (FYP)**: We have positions openings every year for the Capstone Project and URIS project related to LLM, LLM inference, and Agentic AI which will collaborate with the industry. We can provide industry intern opportunities. Welcome to reach out and join us! We will provide hands-on guidance for your work!
 
 <!--<font color='green'><b>If you are interested in **LLMs fine-tuning and inference optimization, Agentic AI**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!</b></font>-->
 
@@ -60,11 +60,15 @@ Recent Highlight:
 
 ## Services:
 
+- **18 Dec. 2025**, We will organize a **"Tutorial"** about the data reduction for large-scale AI model training and fine-tuning at [HPDC'26](https://hpdc.sci.utah.edu/2026/), *The 35th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Cleveland, OH, USA, July 13-16, 2026. Welcome to our tutorial at HPDC'26.
+
+- **18 Dec. 2025**, Invited to serve as the Technical Program Commitee of [SC' 26](https://sc26.supercomputing.org/) *The International Conference for High-Performance Computing, Networking, Storage and Analysis*, Chicago, IL, USA • NOV 15–20.
+  
 - **20 Nov. 2025**, Happy to serve as the **Session Chair** for System Software and Cloud in [SC' 25](https://sc25.conference-program.com/) *The International Conference for High-Performance Computing, Networking, Storage and Analysis*, St. louis, MO, USA • NOV 16–21.
 
 - **28 May. 2025**, We are organizing the [Data Reduction Workshop](https://conferences.cis.um.edu.mo/ieeebigdata2025/workshops.html) at [IEEE Big Data 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025/index.html). Welcome to submit!
 
-- **29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ".
+- **29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ", St. louis, MO, USA • NOV 16–21.
 
 ## Publications:
 
