@@ -21,9 +21,9 @@ Address: PQ748, Mong Man Wai Building, Hong Kong Polytechnic University
 
 Opening! 
 ======
-If you are interested in **LLMs fine-tuning and inference optimization, Agentic AI**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
+If you are interested in **AI Infrastructure, LLMs fine-tuning and inference optimization, Agentic AI**, we are actively looking for motivated students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
 
-- **PhD**: We have PhD positions open for 26/27 now. If you are interested in LLM/MLsys, Agentic AI, HPC, and Distributed Systems. Welcome to reach out and join us! We will send the interview invitation before the PhD application deadline (generally, the deadline is January every year), so if you don't receive a timely reply from us, please don't be discouraged and kindly wait patiently, we appreciate your patience!
+- **PhD**: We have PhD positions open for 26/27 now. If you are interested in AI Infra, LLM/MLsys, Agentic AI, HPC, and Distributed Systems. Welcome to reach out and join us! We will send the interview invitation before the PhD application deadline (generally, the deadline is January every year), so if you don't receive a timely reply from us, please don't be discouraged and kindly wait patiently, we appreciate your patience!
 
 - **Postdoc Positions**: Currently, we have **Postdoc Positions** related to the large-scale machine learning system, checkpointing design and optimization. Welcome to reach out and join us!
 
@@ -35,7 +35,7 @@ If you are interested in **LLMs fine-tuning and inference optimization, Agentic 
 
 Research Interests:
 ======
-<h3> LLMs, Agentic AI, MLSys, AI Infrastructure: </h3>
+<h3> AI Infrastructure, LLMs, Agentic AI, MLSys: </h3>
 
 - **LLMs Fine-Tuning, Checkpointing, and Inference Optimization, Agentic AI:** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
 
