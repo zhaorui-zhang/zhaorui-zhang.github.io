@@ -60,7 +60,8 @@ Recent Highlight:
 
 ## Services:
 
-- **18 Dec. 2025**, We will organize a **"Tutorial"** about the data reduction for large-scale AI model training and fine-tuning at [HPDC'26](https://hpdc.sci.utah.edu/2026/), *The 35th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Cleveland, OH, USA, July 13-16, 2026. Welcome to our tutorial at HPDC'26.
+<!-- - **18 Dec. 2025**, We will organize a **"Tutorial"** about the data reduction for large-scale AI model training and fine-tuning at [HPDC'26](https://hpdc.sci.utah.edu/2026/), *The 35th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Cleveland, OH, USA, July 13-16, 2026. Welcome to our tutorial at HPDC'26.
+-->
 
 - **18 Dec. 2025**, Invited to serve as the Technical Program Commitee of [SC' 26](https://sc26.supercomputing.org/) *The International Conference for High-Performance Computing, Networking, Storage and Analysis*, Chicago, IL, USA • NOV 15–20.
   
