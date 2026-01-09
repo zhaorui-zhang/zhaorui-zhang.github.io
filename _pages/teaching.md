@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **COMP4442: Service and Cloud Computing**, Lecturer \
-  *Department of Computing, The Hong Kong Polytechnic University*, 2023, 2024, 2025 Spring Semester
+  *Department of Computing, The Hong Kong Polytechnic University*, 2023, 2024, 2025, 2026 Spring Semester
 
 - **COMP7104: The Introduction of the Linux Operating System**,  Lecturer \
   *The University of Hong Kong*
