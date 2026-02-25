@@ -8,18 +8,12 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=0UuCWq0AAAAJ&view_op=list_works&sortby=pubdate)  
 **\*** represents my supervised students
 
-## Preprints:
-
-- **CLLoRA: An Approach to Measure the Effects of the Context Length for LLM Fine-Tuning**, 2025 \
-  <u>Ping Zhang*</u>, **Zhaorui Zhang**, Sheng Di, Yao Xin, Benben Liu
-
-- **HLoRA: Efficient Federated Learning System for LLM Heterogeneous Fine-Tuning**, 2025 \
-  <u>Qianli Liu*</u>, **Zhaorui Zhang**, Xin Yao, Benben Liu
-  
-- **ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**, 2025 \
-  Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Xiaoyi Lu, Ken Raffenetti, Hui Zhou, Kai Zhao, Khalid Alharthi, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur 
 
 ## 2026:
+
+- **Constraint-Driven Evolution of Multimodal Video Intelligence: A Network and System Perspective** \
+  Xuzhao Li, Xuchen Li, Shiyu Hu, **Zhaorui Zhang**, Kang Hao Cheong \
+  *IEEE Transactions on Network Science and Engineering*, **\(TNSE' 26\)**, 2026
 
 - **SGA-GNN: Semantic-Guided Adaptive Graph Neural Network for Cold-Start Multimodal Recommendation** \
   <u>Jialin Liu*</u>, **Zhaorui Zhang**, Ray C. C. Cheung\
@@ -37,6 +31,8 @@ author_profile: true
   (**CCF-A** Conference for AI System)
   
 ## 2025:
+
+### Publications:
 
 - **FastREI: Fast Rare Event Identification on X-ray Data with Cross-Stage Optimizations** \
 Ziyu Hu, Jiamin Wang, Zhiqing Zhong, Weijian Zheng, Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, **Zhaorui Zhang**, Rajkumar Kettimuthu, and Xiaodong Yu \
@@ -99,6 +95,17 @@ Xiangkai Yin, Shuoyu Wang, **Zhaorui Zhang**, Zimeng Zhou, Lei Ju, and Zhuoran J
 - **BLIP-Eye: Vision-Language Pre-training Classification Model for Eye Diseases Using OCT Scans** \
   Khalid Ayed Alharthi, Saja A Alshahrani, Rasha O Alshahrani, Rahaf A Alshahrani, Ali Alshahrani, **Zhaorui Zhang** \
   *International Conference on AI in Medicine and Healthcare*, 2025
+
+### Preprints:
+
+- **CLLoRA: An Approach to Measure the Effects of the Context Length for LLM Fine-Tuning**, 2025 \
+  <u>Ping Zhang*</u>, **Zhaorui Zhang**, Sheng Di, Yao Xin, Benben Liu
+
+- **HLoRA: Efficient Federated Learning System for LLM Heterogeneous Fine-Tuning**, 2025 \
+  <u>Qianli Liu*</u>, **Zhaorui Zhang**, Xin Yao, Benben Liu
+  
+- **ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**, 2025 \
+  Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, **Zhaorui Zhang**, Jinyang Liu, Xiaoyi Lu, Ken Raffenetti, Hui Zhou, Kai Zhao, Khalid Alharthi, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur
   
 ## 2024:
 
