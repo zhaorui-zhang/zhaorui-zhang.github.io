@@ -72,6 +72,8 @@ Recent Highlight:
 
 ## Publications:
 
+- **19 Mar. 2026**, Our paper "In-Depth Exploration of Differentially Private Quantization for Privacy-Preserving and Communication-Efficient Federated Learning" was accepted by the [DSN' 26](https://dsn2026.github.io/), *The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026)*, Charlotte, USA, June 22-25, 2026.
+   
 - **8 Nov. 2025**, Our paper "MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommender Systems" was accepted by the [AAAI' 26](https://aaai.org/conference/aaai/aaai-26/), *The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)*, January 20 – January 27, 2026, Singapore.
 
 - **6 Sep. 2025**, We will present our paper "Compression Error Sensitivity Analysis for Different Experts in MoE Model Inference" at the workshop of [SC' 25](https://sc25.supercomputing.org/), *The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2025)*, NOV 16–21, 2025, St. louis, MO, USA.
