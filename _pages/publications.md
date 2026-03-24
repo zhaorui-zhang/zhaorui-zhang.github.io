@@ -11,6 +11,10 @@ author_profile: true
 
 ## 2026:
 
+- **In-Depth Exploration of Differentially Private Quantization for Privacy-Preserving and Communication-Efficient Federated Learning** \
+  Shan Huang, Zhijing Ye, Jiamin Wang, **Zhaorui Zhang**, Jie Fu, Wendy Hui Wang, Sheng Di, Xiaodong Yu \
+  *The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks*, **\(DSN' 26\)**, 2026
+  
 - **Constraint-Driven Evolution of Multimodal Video Intelligence: A Network and System Perspective** \
   Xuzhao Li, Xuchen Li, Shiyu Hu, **Zhaorui Zhang**, Kang Hao Cheong \
   *IEEE Transactions on Network Science and Engineering*, **\(TNSE' 26\)**, 2026
