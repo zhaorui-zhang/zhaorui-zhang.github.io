@@ -9,6 +9,9 @@ author_profile: true
 
 ### 2026:
 
+- **ICPP'26**: [ICPP'26](https://icpp2026.github.io/), *55th International Conference on Parallel Processing*, Singapore, September 28 - October 1, 2026.
+  - **Workshop:** The 1th International Workshop on Data Compression for AI and Big Data Applications (DC4AI).
+
 - **HPDC'26**: [HPDC'26](https://hpdc.sci.utah.edu/2026/), *The 35th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Cleveland, OH, USA, July 13-16, 2026.
   - **Tutorial:** The 1th Tutorial about When the Error-Bounded Lossy Compression Meets Large-Scale AI Model Training and Fine-Tuning in Federated Environments.
 
