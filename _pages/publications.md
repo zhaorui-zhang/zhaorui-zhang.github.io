@@ -11,6 +11,10 @@ author_profile: true
 
 ## 2026:
 
+- **Noise-Calibrated Lossy Compression for Privacy Leakage Reduction in Federated Learning** \
+Shan Huang, Zhijing Ye, **Zhaorui Zhang**, Sheng Di, Jiamin Wang, Wendy Hui Wang and Xiaodong Yu	\
+*46th IEEE International Conference on Distributed Computing Systems*, **\(ICDCS' 26\)**, 2026
+
 - **Demystifying Differentially Private Quantization in Federated Learning** \
 Shan Huang, Zhijing Ye, Jiamin Wang, **Zhaorui Zhang**, Jie Fu, Wendy Hui Wang, Sheng Di and Xiaodong Yu	\
 *The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks*, **\(DSN' 26\)**, 2026
