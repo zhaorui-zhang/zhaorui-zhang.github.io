@@ -30,7 +30,7 @@ Shan Huang, Zhijing Ye, Jiamin Wang, **Zhaorui Zhang**, Jie Fu, Wendy Hui Wang, 
 - **SGA-GNN: Semantic-Guided Adaptive Graph Neural Network for Cold-Start Multimodal Recommendation** \
   <u>Jialin Liu*</u>, **Zhaorui Zhang**, Ray C. C. Cheung\
   *IEEE International Conference on Acoustics, Speech, and Signal Processing*, **\(ICASSP' 26\)**, 2026 \
-  (**CCF-B** Conference for AI System)
+  (**"Oral"** --- **CCF-B** Conference for AI System)
   
 - **DeepEBC: Compressing the Pre-Trained LLMs with Error-Bounded Lossy Compression** \
 <u>Jiaqi Xu*</u>, **Zhaorui Zhang**, <u>Gaolin Wei*</u>, Sheng Di, Benben Liu, Xiaodong Yu, Xiaoyi Lu \
