@@ -60,6 +60,8 @@ Recent Highlight:
 
 ## Services:
 
+- **08 June 2026**, We will organize a **Workshop** *The 1th International Workshop on Data Compression for AI and AI Applications (DC4AI)* at [ATC'26](https://sigops.org/s/conferences/atc/2026/index.html), *The 2026 ACM SIGOPS Annual Technical Conference*, Hong Kong, November 15-18, 2026. Welcome to submit!
+
 - **24 April 2026**, We will organize a **Workshop** *The 1th International Workshop on Data Compression for AI and Big Data Applications (DC4AI)* at [ICPP'26](https://icpp2026.github.io/), *55th International Conference on Parallel Processing*, Singapore, September 28 - October 1, 2026. Welcome to submit!
 
 - **18 Dec. 2025**, We will organize a **"Tutorial"** about the data reduction for large-scale AI model training and fine-tuning at [HPDC'26](https://hpdc.sci.utah.edu/2026/), *The 35th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Cleveland, OH, USA, July 13-16, 2026. Welcome to our tutorial at HPDC'26.
