@@ -7,11 +7,11 @@ author_profile: true
 
 
 ## <u>Current Team:</u>
-### PhD Students:
-<!-- - Zichao Xia (BSc: Shanghai Jiao Tong University, Mphil: Shanghai Jiao Tong University, 2025-now) -->
-<!-- - Weiyang Ma (BSc: Beihang University, 2025-now) -->
-
-Coming Soon...
+### PhD Students (Supervisor & Co-Supervisor):
+- Zichao Xia (BSc: Shanghai Jiao Tong University, Mphil: Shanghai Jiao Tong University, 2025-now)
+  - Checkpointing for Large-Scale Model Training/Fine-Tuning on HPC Cluster
+- Weiyang Ma (BSc: Beihang University, 2025-now)
+  - LLM Serving: Offloading and Optimization on HPC Cluster
 
 
 ## <u>Alumni:</u>
