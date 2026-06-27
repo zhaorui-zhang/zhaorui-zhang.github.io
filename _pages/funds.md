@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Projects/Funds"
+permalink: /funds/
 author_profile: true
 ---
 
