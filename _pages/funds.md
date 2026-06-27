@@ -5,8 +5,6 @@ permalink: /funds/
 author_profile: true
 ---
 
-## Projects/Funds:
-
 ## 2026:
 
 - **[GRF]**, "SkyPS: A New Distributed Large-Scale Model Training/Fine-Tuning System Over Sky Computing Platform", HK-RGC: RGC General Research Fund (GRF), 01 Jan. 2027 -- 31 Dec. 2029
