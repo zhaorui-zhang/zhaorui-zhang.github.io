@@ -74,6 +74,10 @@ Recent Highlight:
 
 - **29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ", St. louis, MO, USA • NOV 16–21.
 
+## Projects/Funds:
+
+- **26 June 2026**, Our project "SkyPS: A New Distributed Large-Scale Model Training/Fine-Tuning System Over Sky Computing Platform" was funded by HK-RGC: RGC General Research Fund (**GRF**).
+
 ## Publications:
 
 - **19 Mar. 2026**, Our paper "In-Depth Exploration of Differentially Private Quantization for Privacy-Preserving and Communication-Efficient Federated Learning" was accepted by the [DSN' 26](https://dsn2026.github.io/), *The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026)*, Charlotte, USA, June 22-25, 2026.
