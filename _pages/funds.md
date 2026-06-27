@@ -11,7 +11,7 @@ author_profile: true
 
 ## 2025:
 
-- **[ITF]**, "Machine Learning Platform for Heterogeneous Accelerator Clusters", HK-ITC: ITF, 31 Mar. 2025 - 30 Mar. 2027
+- **[ITF-LSCM]**, "Machine Learning Platform for Heterogeneous Accelerator Clusters", HK-ITC: ITF-LSCM, 31 Mar. 2025 - 30 Mar. 2027
 
 ## 2024:
 
