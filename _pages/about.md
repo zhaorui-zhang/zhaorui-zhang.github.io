@@ -23,7 +23,7 @@ Opening!
 ======
 If you are interested in **AI Infrastructure, LLMs fine-tuning and inference optimization, Multimodal Inference for Agentic AI**, we are actively looking for motivated students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
 
-- **PhD**: We have PhD positions open for 26/27 now. If you are interested in AI Infra, LLM/MLsys, Agentic AI, HPC, and Distributed Systems. Welcome to reach out and join us! We will send the interview invitation before the PhD application deadline (generally, the deadline is January every year), so if you don't receive a timely reply from us, please don't be discouraged and kindly wait patiently, we appreciate your patience!
+- **PhD**: <span style="color: red;"><strong>We have multiple PhD positions open for 27 now.</strong></span> If you are interested in AI Infra, LLM/MLsys, Agentic AI, HPC, and Distributed Systems. Welcome to reach out and join us! We will send the interview invitation before the PhD application deadline (generally, the deadline is January every year), so if you don't receive a timely reply from us, please don't be discouraged and kindly wait patiently, we appreciate your patience!
 
 - **Postdoc Positions**: Currently, we have **Postdoc Positions** related to the large-scale machine learning system, checkpointing design and optimization. Welcome to reach out and join us!
 
