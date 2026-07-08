@@ -10,6 +10,7 @@ author_profile: true
 ### PhD Students (Supervisor & Co-Supervisor):
 - Zichao Xia (BSc: Shanghai Jiao Tong University, Mphil: Shanghai Jiao Tong University, 2025-now)
   - Checkpointing for Large-Scale Model Training/Fine-Tuning on HPC Cluster
+  - <span style="color: red;">Best Demo Presentation Award, 2026 PolyU-HIT(SZ) Research Student Conference.</span>
 - Weiyang Ma (BSc: Beihang University, 2025-now)
   - LLM Serving: Offloading and Optimization on HPC Cluster
 
