@@ -11,9 +11,13 @@ author_profile: true
 
 ## 2026:
 
-<!-- - **Noise-Calibrated Lossy Compression for Privacy Leakage Reduction in Federated Learning** \
+- **Beyond Modality Harmony: Orthogonal Purification and Topology-Guided MoE for Conflict-Aware Multimodal Recommendation** \
+  <u>Jialin Liu*</u>, **Zhaorui Zhang**, Ray C. C. Cheung\
+  *The 34th ACM International Conference on Multimedia*, **\(ACM MM' 26\)**, 2026
+  
+- **Noise-Calibrated Lossy Compression for Privacy Leakage Reduction in Federated Learning** \
 Shan Huang, Zhijing Ye, **Zhaorui Zhang**, Sheng Di, Jiamin Wang, Wendy Hui Wang and Xiaodong Yu	\
-*46th IEEE International Conference on Distributed Computing Systems*, **\(ICDCS' 26\)**, 2026 -->
+*46th IEEE International Conference on Distributed Computing Systems*, **\(ICDCS' 26\)**, 2026
 
 - **Demystifying Differentially Private Quantization in Federated Learning** \
 Shan Huang, Zhijing Ye, Jiamin Wang, **Zhaorui Zhang**, Jie Fu, Wendy Hui Wang, Sheng Di and Xiaodong Yu	\
@@ -29,8 +33,7 @@ Shan Huang, Zhijing Ye, Jiamin Wang, **Zhaorui Zhang**, Jie Fu, Wendy Hui Wang, 
 
 - **SGA-GNN: Semantic-Guided Adaptive Graph Neural Network for Cold-Start Multimodal Recommendation** \
   <u>Jialin Liu*</u>, **Zhaorui Zhang**, Ray C. C. Cheung\
-  *IEEE International Conference on Acoustics, Speech, and Signal Processing*, **\(ICASSP' 26\)**, 2026 \
-  (**"Oral"** --- **CCF-B** Conference for AI System)
+  *IEEE International Conference on Acoustics, Speech, and Signal Processing*, **\(ICASSP' 26\)**, 2026 (<span style="color: red;"><strong>Oral</strong></span>) 
   
 - **DeepEBC: Compressing the Pre-Trained LLMs with Error-Bounded Lossy Compression** \
 <u>Jiaqi Xu*</u>, **Zhaorui Zhang**, <u>Gaolin Wei*</u>, Sheng Di, Benben Liu, Xiaodong Yu, Xiaoyi Lu \
