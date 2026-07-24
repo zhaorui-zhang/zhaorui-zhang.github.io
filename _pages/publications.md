@@ -11,6 +11,10 @@ author_profile: true
 
 ## 2026:
 
+- **On-Demand Snapshot Migration: Accelerating Container Migration in Low-Bandwidth Networks** \
+  Zhiyuan Hu, Jiannong Cao, **Zhaorui Zhang**, Yinfeng Cao, Lei Yang\
+  *IEEE Transactions on Mobile Computing*, **\(TMC' 26\)**, 2026
+  
 - **Beyond Modality Harmony: Orthogonal Purification and Topology-Guided MoE for Conflict-Aware Multimodal Recommendation** \
   <u>Jialin Liu*</u>, **Zhaorui Zhang**, Ray C. C. Cheung\
   *The 34th ACM International Conference on Multimedia*, **\(ACM MM' 26\)**, 2026
