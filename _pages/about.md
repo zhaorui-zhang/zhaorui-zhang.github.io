@@ -21,7 +21,7 @@ Address: PQ748, Mong Man Wai Building, Hong Kong Polytechnic University
 
 Opening! 
 ======
-If you are interested in **AI Infrastructure, LLMs fine-tuning and inference optimization, Multimodal Inference for Agentic AI**, we are actively looking for motivated students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
+If you are interested in **AI Infrastructure, LLMs fine-tuning and inference(Serving), Agent System, HPC for AI**, we are actively looking for motivated students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
 
 - **PhD**: <span style="color: red;"><strong>We have multiple PhD positions open for 27 now.</strong></span> If you are interested in AI Infra, LLM/MLsys, Agentic AI, HPC, and Distributed Systems. Welcome to reach out and join us! We will send the interview invitation before the PhD application deadline (generally, the deadline is January every year), so if you don't receive a timely reply from us, please don't be discouraged and kindly wait patiently, we appreciate your patience!
 
@@ -35,7 +35,7 @@ If you are interested in **AI Infrastructure, LLMs fine-tuning and inference opt
 
 Research Interests:
 ======
-<h3> AI Infrastructure, LLMs, Agentic AI, MLSys: </h3>
+<h3> AI Infrastructure, LLMs, Agentic AI, HPC for AI: </h3>
 
 - **LLMs Fine-Tuning, Checkpointing, and Inference Optimization, Agentic AI:** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
 
