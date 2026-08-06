@@ -14,7 +14,13 @@ author_profile: true
 - Weiyang Ma (BSc: Beihang University, 2025-now)
   - LLM Serving: Offloading and Optimization on HPC Cluster
 
-
+### Research Staff:
+- Yuanming Song
+  - Agentic Workflow Optimization on HPC Cluster
+- Gaolin Wei
+  - LLM Serving: KV Cache Management on Heterogeneous Accelerators
+ 
+    
 ## <u>Alumni:</u>
 ### Master Students:
 - Haotian Xu (Now: PhD at Beijing Institute of Technology)
