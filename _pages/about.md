@@ -37,7 +37,7 @@ Research Interests:
 ======
 <h3> AI Infrastructure, LLMs, Agentic AI, HPC for AI: </h3>
 
-- **LLMs Fine-Tuning, Checkpointing, and Inference Optimization, Agentic AI:** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
+- **LLMs Fine-Tuning, Checkpointing, and Inference/Serving Optimization, Agentic AI:** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
 
 <h3> HPC, Parallel and Distributed Systems, Cloud Computing, FPGAs: </h3>
 
