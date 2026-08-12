@@ -12,11 +12,11 @@ author_profile: true
   - Checkpointing for Large-Scale Model Training/Fine-Tuning on HPC Cluster
   - <span style="color: red;">Best Demo Presentation Award, 2026 PolyU-HIT(SZ) Research Student Conference.</span>
 - Weiyang Ma (BSc: Beihang University, 2025-now)
-  - LLM Serving: Offloading and Optimization on HPC Cluster
+  - LLM Serving: Offloading and System Optimization on HPC Cluster
 
 ### Research Staff:
 - Yuanming Song
-  - Agentic Workflow Optimization on HPC Cluster
+  - Agent Infra, Agentic Workflow System Optimization on HPC Cluster
 - Gaolin Wei
   - LLM Serving: KV Cache Management on Heterogeneous Accelerators
  
