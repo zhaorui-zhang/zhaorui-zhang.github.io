@@ -16,7 +16,7 @@ author_profile: true
 
 ### Research Staff:
 - Yuanming Song
-  - Agent Infra, Agentic Workflow System Optimization on HPC Cluster
+  - Agent Infra, LLM for System, Agentic Workflow System Optimization on HPC Cluster
 - Gaolin Wei
   - LLM Serving: KV Cache Management on Heterogeneous Accelerators
  
