@@ -12,8 +12,8 @@
    - title: "Team"
      url: /team/
 
-   - title: "Projects/Funds"
-     url: /funds/
+   #- title: "Projects/Funds"
+   #  url: /funds/
      
    - title: "Teaching"
      url: /teaching/    
