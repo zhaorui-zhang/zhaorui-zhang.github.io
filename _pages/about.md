@@ -21,23 +21,23 @@ Address: PQ748, Mong Man Wai Building, Hong Kong Polytechnic University
 
 Opening! 
 ======
-If you are interested in **AI Infrastructure, LLMs fine-tuning and inference(Serving), Agent System, HPC for AI**, we are actively looking for motivated students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
+If you are interested in **AI Infrastructure, Agent Infra, LLMs Fine-Tuning and Inference/Serving, HPC for AI**, we are actively looking for motivated students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!
 
-- **PhD**: <span style="color: red;"><strong>We have multiple PhD positions open for 27 now.</strong></span> If you are interested in AI Infra, LLM/MLsys, Agentic AI, HPC, and Distributed Systems. Welcome to reach out and join us! We will send the interview invitation before the PhD application deadline (generally, the deadline is January every year), so if you don't receive a timely reply from us, please don't be discouraged and kindly wait patiently, we appreciate your patience!
+- **PhD**: <span style="color: red;"><strong>We have multiple PhD positions open for 27 now.</strong></span> If you are interested in AI Infra, Agent Infra, LLMs, HPC, and Distributed Systems. Welcome to reach out and join us! We will send the interview invitation before the PhD application deadline (generally, the deadline is January every year), so if you don't receive a timely reply from us, please don't be discouraged and kindly wait patiently, we appreciate your patience!
 
 - **Postdoc Positions**: Currently, we have **Postdoc Positions** related to the large-scale machine learning system, checkpointing design and optimization. Welcome to reach out and join us!
 
-- **MSc Dissertaion/Thesis at PolyU**: We have positions opening every year for the **MSc Dissertation/Thesis** related to LLM, LLM inference, and Multimodal for Agentic AI, which will collaborate with the industry. We can provide industry intern opportunities. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+- **MSc Dissertaion/Thesis at PolyU**: We have positions opening every year for the **MSc Dissertation/Thesis** related to LLM, LLM Serving, and Agent Infra, which will collaborate with the industry. We can provide industry intern opportunities. Welcome to reach out and join us! We will provide hands-on guidance for your work!
   
-- **Capstone Project/URIS Project for Undergraduate Student at PolyU (FYP)**: We have positions openings every year for the Capstone Project and URIS project related to LLM, LLM inference, and Multimodal for Agentic AI which will collaborate with the industry. We can provide industry intern opportunities. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+- **Capstone Project/URIS Project for Undergraduate Student at PolyU (FYP)**: We have positions openings every year for the Capstone Project and URIS project related to LLM, LLM Serving, and Agent Infra which will collaborate with the industry. We can provide industry intern opportunities. Welcome to reach out and join us! We will provide hands-on guidance for your work!
 
 <!--<font color='green'><b>If you are interested in **LLMs fine-tuning and inference optimization, Agentic AI**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!</b></font>-->
 
 Research Interests:
 ======
-<h3> AI Infrastructure, LLMs, Agentic AI, HPC for AI: </h3>
+<h3> AI Infrastructure, Agent Infrastructure, LLMs, HPC for AI: </h3>
 
-- **LLMs Fine-Tuning, Checkpointing, and Inference/Serving Optimization, Agentic AI:** I am broadly interested in the building and optimization of AI systems (MLSys) from both sides of the system and machine learning algorithms based on a wide range of computing platforms (e.g., distributed, cloud, HPC, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
+- **Agent Infra, LLM Serving, LLMs Fine-Tuning, Checkpointing:** I am broadly interested in the building and optimization of AI systems from both sides of the system and AI algorithms based on a wide range of computing platforms (e.g., HPC, distributed, cloud, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
 
 <h3> HPC, Parallel and Distributed Systems, Cloud Computing, FPGAs: </h3>
 
