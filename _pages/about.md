@@ -13,7 +13,6 @@ I am currently a Research Assistant Professor at the [Department of Computing](h
 
 I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), and very fortunate to work with my supervisor [Prof. Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before studying at HKU, I used to work with [Prof. Ray C. C. Cheung](https://cityuhk-calas.github.io/people/) in [CALAS](https://cityuhk-calas.github.io/) Lab at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
-<!-- I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html).-->
 
 Email: zhaorui.zhang@polyu.edu.hk
 
@@ -25,34 +24,22 @@ If you are interested in **AI Infrastructure, Agent Infra, LLM for System, LLMs 
 
 - **PhD**: <span style="color: red;"><strong>We have multiple PhD positions open for 27 now.</strong></span> If you are interested in AI Infra, Agent Infra, LLMs, HPC, and Distributed Systems. Welcome to reach out and join us! We will send the interview invitation before the PhD application deadline (generally, the deadline is January every year), so if you don't receive a timely reply from us, please don't be discouraged and kindly wait patiently, we appreciate your patience!
 
-- **Postdoc Positions**: Currently, we have **Postdoc Positions** related to the large-scale machine learning system, checkpointing design and optimization. Welcome to reach out and join us!
+- **Postdoc Positions**: Currently, we have Postdoc Positions related to the large-scale machine learning system, checkpointing design and optimization. Welcome to reach out and join us!
 
-- **MSc Dissertaion/Thesis at PolyU**: We have positions opening every year for the **MSc Dissertation/Thesis** related to LLM, LLM Serving, and Agent Infra, which will collaborate with the industry. We can provide industry intern opportunities. Welcome to reach out and join us! We will provide hands-on guidance for your work!
+- **MSc Dissertaion/Thesis at PolyU**: We have positions opening every year for the MSc Dissertation/Thesis related to LLM, LLM Serving, and Agent Infra, which will collaborate with the industry. We can provide industry intern opportunities. Welcome to reach out and join us! We will provide hands-on guidance for your work!
   
 - **Capstone Project/URIS Project for Undergraduate Student at PolyU (FYP)**: We have positions openings every year for the Capstone Project and URIS project related to LLM, LLM Serving, and Agent Infra which will collaborate with the industry. We can provide industry intern opportunities. Welcome to reach out and join us! We will provide hands-on guidance for your work!
 
-<!--<font color='green'><b>If you are interested in **LLMs fine-tuning and inference optimization, Agentic AI**, we are actively looking for motivated colleagues/students at different levels (Postdoc, PhD, MSc, Undergraduate, etc.) to reach out and join us!</b></font>-->
 
 Research Interests:
 ======
 <h3> AI Infrastructure, Agent Infra, LLM for System, HPC for AI: </h3>
 
-- **Agent Infra, LLM Serving, LLMs Fine-Tuning, Checkpointing:** I am broadly interested in the building and optimization of AI systems from both sides of the system and AI algorithms based on a wide range of computing platforms (e.g., HPC, distributed, cloud, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
+- **AI Infra, Agent Infra, LLM(Agent) for System, LLM Serving, LLMs Fine-Tuning, Checkpointing:** I am broadly interested in the building and optimization of AI systems from both sides of the system and AI algorithms based on a wide range of computing platforms (e.g., HPC, distributed, cloud, IoT, AIoT, and even quantum and photonic platforms) for emerging big data and AI applications, including distributed communication optimization, data compression, fault-tolerance, etc.
 
 <h3> HPC, Parallel and Distributed Systems, Cloud Computing, FPGAs: </h3>
 
 - I am also interested in high-performance computing (HPC), parallel and distributed systems, data reduction, cloud computing, error-bounded lossy compression, fault tolerance, and FPGA.
-
-<!-- which is an interdisciplinary research area relevant to distributed systems, distributed optimization, stochastic optimization, and machine learning/deep learning that aims to optimize the distributed deep learning system from both sides of the system and machine/deep learning algorithms, like distributed communication reduction, gradient error constraints, and deep learning compilation optimization, etc. -->
-
-
-<!--We have several projects related to **large-scale models (LLMs) fine-tuning and inference optimization** recruiting students to join, including the **PhD student and other levels**. You are welcome to reach out and talk to me! We will provide hands-on guidance for your work! 
-
-We also have lots of **industry connections in both China and America** and can support you to find some **excellent industry intern opportunities**!
-
-If you are interested in my research, we are actively looking for motivated colleagues/students at different levels to reach out and join us!
-
-Currently, We are looking for student interns who would like to work with us in the area of Machine Learning Systems (MLSys). Students who want to spend several months in HK for your Final Year Project (“毕业设计”) are also welcome to reach out with your CV. We welcome different-level students to reach out. -->
 
 
 Recent Highlight:
