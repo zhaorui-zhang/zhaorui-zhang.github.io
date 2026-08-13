@@ -126,7 +126,7 @@ Academic Employment Experiences:
 
 <p style="margin-top: 0.6rem;">
   <a
-    href="PASTE_YOUR_SHARE_URL_HERE"
+    href="https://statable.com/sites/q6651bedcc"
     target="_blank"
     rel="noopener noreferrer">
     View detailed visitor statistics &rarr;
@@ -135,7 +135,7 @@ Academic Employment Experiences:
 
 <script>
 (function () {
-  const statisticsUrl = "PASTE_YOUR_SHARE_URL_HERE";
+  const statisticsUrl = "https://statable.com/sites/q6651bedcc";
 
   function initializeVisitorMapLink() {
     const mapContainer = document.getElementById("visitor-map-container");
