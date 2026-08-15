@@ -55,8 +55,6 @@ Shan Huang, Zhijing Ye, Jiamin Wang, **Zhaorui Zhang**, Jie Fu, Wendy Hui Wang, 
   
 ## 2025:
 
-### Publications:
-
 - **FastREI: Fast Rare Event Identification on X-ray Data with Cross-Stage Optimizations** \
 Ziyu Hu, Jiamin Wang, Zhiqing Zhong, Weijian Zheng, Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, **Zhaorui Zhang**, Rajkumar Kettimuthu, and Xiaodong Yu \
   *2025 IEEE International Conference on Big Data*, 2025 \
@@ -77,7 +75,7 @@ Xiangkai Yin, Shuoyu Wang, **Zhaorui Zhang**, Zimeng Zhou, Lei Ju, and Zhuoran J
   *The International Conference for High-Performance Computing, Networking, Storage and Analysis, Poster*, **\(SC'25\)**, 2025 \
   (**CCF-A** Conference for High-Performance Computing)
   
-- **A Dynamic Virtual Memory Management System for LLMs on AI Chips (GPUs)** \
+- **A Dynamic Virtual Memory Management System for LLMs on AI Chips** \
   <u>Gaolin Wei*</u>, **Zhaorui Zhang**, <u>Jiaqi Xu*</u>, Chen Zhang, Benben Liu, Xin Yao\
   *The 43rd IEEE International Conference on Computer Design* **\(ICCD\)**, 2025 \
   (**CCF-B** Conference for Computer Systems)
@@ -119,8 +117,6 @@ Xiangkai Yin, Shuoyu Wang, **Zhaorui Zhang**, Zimeng Zhou, Lei Ju, and Zhuoran J
   Khalid Ayed Alharthi, Saja A Alshahrani, Rasha O Alshahrani, Rahaf A Alshahrani, Ali Alshahrani, **Zhaorui Zhang** \
   *International Conference on AI in Medicine and Healthcare*, 2025
 
-### Preprints:
-
 - **CLLoRA: An Approach to Measure the Effects of the Context Length for LLM Fine-Tuning**, 2025 \
   <u>Ping Zhang*</u>, **Zhaorui Zhang**, Sheng Di, Yao Xin, Benben Liu
 
@@ -159,6 +155,10 @@ Xiangkai Yin, Shuoyu Wang, **Zhaorui Zhang**, Zimeng Zhou, Lei Ju, and Zhuoran J
 
 ## 2023 and Before:
 
+- **Efficient Parameter Update Strategy for Distributed Deep Learning Systems** \
+  **Zhaorui Zhang** \
+  *HKU Theses Online (HKUTO)*, 2022
+  
 - **MIPD: An Adaptive Gradient Sparsification Framework for Distributed DNNs Training** \
   **Zhaorui Zhang**, Cho-Li Wang \
   *IEEE Transactions on Parallel and Distributed Systems* **\(TPDS\)**, 2022 \
@@ -168,23 +168,19 @@ Xiangkai Yin, Shuoyu Wang, **Zhaorui Zhang**, Zimeng Zhou, Lei Ju, and Zhuoran J
   **Zhaorui Zhang**, Zhuoran Ji, Cho-Li Wang \
   *Journal of Parallel and Distributed Computing* **\(JPDC\)**, 2022 \
   (**CCF-B** Journal for Distributed and Parallel Systems)
-  
-- **Efficient Parameter Update Strategy for Distributed Deep Learning Systems**
-  **Zhaorui Zhang** \
-*HKU Theses Online (HKUTO)*, 2021
 
 - **SaPus: Self-Adaptive Parameter Update Strategy for DNN Training on Multi-GPU Clusters** \
   **Zhaorui Zhang**, Cho-Li Wang \
   *IEEE Transactions on Parallel and Distributed Systems* **\(TPDS\)**, 2021 \
   (**CCF-A** Journal for Distributed and Parallel Systems)
 
-- **Development Report on National High-Performance Computing Environment** \
-  Xuebin Chi, Liping Liu, Yangang Wang, **Zhaorui Zhang**, etc. \
-  *Book, published by Science Press*
-
 - **FPGA-based High-Performance Collision Detection: An Enabling Technique for Image-Guided Robotic Surgery** \
   **Zhaorui Zhang**, Xin Y, Liu B, Li WXY, Lee K.H., Ng C.F., Stoyanov D, Cheung RCC, Kwok KW \
   *Frontiers in Robotics and AI*
+  
+- **Development Report on National High-Performance Computing Environment** \
+  Xuebin Chi, Liping Liu, Yangang Wang, **Zhaorui Zhang**, etc. \
+  *Book, published by Science Press*
 
 - **An Application Specific Instruction Set Processor (ASIP) for Adaptive Filters in Neural Prosthetics** \
   Yao Xin, Will X. Y. Li, **Zhaorui Zhang**, Ray C. C. Cheung, Dong Song, Theodore W. Berger \
