@@ -11,6 +11,10 @@ author_profile: true
 
 ## 2026:
 
+- **FetchRight: Two-Stage Network-Adaptive Image Fetching for Fast Edge Container Provisioning** \
+  	Zhiyuan Hu, Jiannong Cao, Paolo Bellavista, Kaile Wang, **Zhaorui Zhang**\
+  *2026 IEEE 23rd International Conference on Mobile Ad Hoc and Smart Systems (MASS)*, **\(MASS' 26\)**, 2026
+  
 - **On-Demand Snapshot Migration: Accelerating Container Migration in Low-Bandwidth Networks** \
   Zhiyuan Hu, Jiannong Cao, **Zhaorui Zhang**, Yinfeng Cao, Lei Yang\
   *IEEE Transactions on Mobile Computing*, **\(TMC' 26\)**, 2026
