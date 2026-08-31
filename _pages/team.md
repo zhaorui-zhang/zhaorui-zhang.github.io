@@ -13,6 +13,8 @@ author_profile: true
   - <span style="color: red;">Best Demo Presentation Award, 2026 PolyU-HIT(SZ) Research Student Conference.</span>
 - Weiyang Ma (BSc: Beihang University, 2025-now)
   - LLM Serving: Offloading and System Optimization on HPC Cluster
+- Wuzhenhan Dai (BSc: Zhejiang University, 2026-now)
+  - Agent Infra, LLM for System, Agentic Workflow System Optimization on HPC Cluster
 
 ### Research Staff:
 - Yuanming Song
