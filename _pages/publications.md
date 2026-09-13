@@ -11,6 +11,10 @@ author_profile: true
 
 ## 2026:
 
+- **SplitFT: An Edge-Cloud Collaborative Federated Split Learning System** \
+  	<u>Yimeng Shan*</u>, **Zhaorui Zhang**, Sheng Di, Yu Liu, Xiaoyi Lu, Benben Liu\
+  *The International Conference for High-Performance Computing, Networking, Storage and Analysis, ECHO Workshop*, **\(SC'26\)**, 2026
+
 - **FetchRight: Two-Stage Network-Adaptive Image Fetching for Fast Edge Container Provisioning** \
   	Zhiyuan Hu, Jiannong Cao, Paolo Bellavista, Kaile Wang, **Zhaorui Zhang**\
   *2026 IEEE 23rd International Conference on Mobile Ad Hoc and Smart Systems (MASS)*, **\(MASS' 26\)**, 2026
