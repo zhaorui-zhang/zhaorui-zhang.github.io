@@ -26,6 +26,11 @@ author_profile: true
 
 ## <u>Conference/Workshop Program Committee:</u>
 
+### 2027:
+
+- **ICS' 27**: ACM International Conference on Supercomputing, [ICS'27](https://www.ics-conference.org/)
+- **SCA' 27**: The Supercomputing Asia conference, [SCA'27](https://www.sc-asia.org/)
+
 ### 2026:
 
 - **SC' 26**: The International Conference for High-Performance Computing, Networking, Storage and Analysis, [SC' 26](https://sc26.supercomputing.org/).
