@@ -45,8 +45,10 @@ Research Interests:
 Recent Highlight:
 ======
 
-## Services:
+<!-- ## Services: -->
 
+- **26 June 2026**, Our project "SkyPS: A New Distributed Large-Scale Model Training/Fine-Tuning System Over Sky Computing Platform" was funded by HK-RGC: RGC General Research Fund (**GRF**).
+  
 - **08 June 2026**, We will organize a **Workshop** [DC4AI](https://hpc-and-ai.github.io/DC4AI-ATC-2026/) *The 1st International Workshop on Data Compression for AI and AI Applications (DC4AI)* at [ATC'26](https://sigops.org/s/conferences/atc/2026/index.html), *The 2026 ACM SIGOPS Annual Technical Conference*, Hong Kong, November 15-18, 2026. Welcome to submit!
 
 - **24 April 2026**, We will organize a **Workshop** [DC4AI](https://hpc-and-ai.github.io/DC4AI-2026/) *The 1st International Workshop on Data Compression for AI and Big Data Applications* at [ICPP'26](https://icpp2026.github.io/), *55th International Conference on Parallel Processing*, Singapore, September 28 - October 1, 2026. Welcome to submit!
@@ -61,10 +63,11 @@ Recent Highlight:
 
 - **29 Jan. 2025**, Invited to serve as the Technical Program Commitee of [SC' 25](https://sc25.supercomputing.org/), " *The International Conference for High-Performance Computing, Networking, Storage and Analysis* ", St. louis, MO, USA • NOV 16–21.
 
-## Projects/Funds:
+<!-- ## Projects/Funds: -->
 
-- **26 June 2026**, Our project "SkyPS: A New Distributed Large-Scale Model Training/Fine-Tuning System Over Sky Computing Platform" was funded by HK-RGC: RGC General Research Fund (**GRF**).
 
+
+<!--
 ## Publications:
 
 - **19 Mar. 2026**, Our paper "In-Depth Exploration of Differentially Private Quantization for Privacy-Preserving and Communication-Efficient Federated Learning" was accepted by the [DSN' 26](https://dsn2026.github.io/), *The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026)*, Charlotte, USA, June 22-25, 2026.
@@ -104,7 +107,7 @@ Academic Employment Experiences:
 - **The Hong Kong Polytechnic University** 
   - Research Assistant Professor in the Department of Computing
 
-
+-->
 
 <!-- <script src="https://statable.com/js/q6651bedcc/t/mw.js" data-id="3203188" data-period="90d" data-outer-radius="16"></script> -->
 
