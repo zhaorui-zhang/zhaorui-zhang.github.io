@@ -9,6 +9,8 @@ author_profile: true
 
 ### 2026:
 
+- **Codesign' 26**: [Codesign'26](https://codesignworkshop.github.io/2026/), The Hong Kong Polytechnic University, Hong Kong, 21 Oct. 2026 - 23 Oct. 2026
+
 - **ATC'26**: [ATC'26](https://sigops.org/s/conferences/atc/2026/index.html), *The 2026 ACM SIGOPS Annual Technical Conference*, Hong Kong, November 15-18, 2026.
   - **Workshop:** [DC4AI - ATC'26](https://hpc-and-ai.github.io/DC4AI-ATC-2026/), The 1st International Workshop on Data Compression for AI and AI Applications (DC4AI).
     
