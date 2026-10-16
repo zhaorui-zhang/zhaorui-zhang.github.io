@@ -48,6 +48,8 @@ Recent Highlight:
 <!-- ## Services: -->
 
 - **26 June 2026**, Our project "SkyPS: A New Distributed Large-Scale Model Training/Fine-Tuning System Over Sky Computing Platform" was funded by HK-RGC: RGC General Research Fund (**GRF**).
+
+- **16 June 2026**, We will organize a **Workshop** [Codesign](https://codesignworkshop.github.io/2026/) at The Hong Kong Polytechnic University, Hong Kong, 21 Oct. - 23 Oct. 2026.
   
 - **08 June 2026**, We will organize a **Workshop** [DC4AI](https://hpc-and-ai.github.io/DC4AI-ATC-2026/) *The 1st International Workshop on Data Compression for AI and AI Applications (DC4AI)* at [ATC'26](https://sigops.org/s/conferences/atc/2026/index.html), *The 2026 ACM SIGOPS Annual Technical Conference*, Hong Kong, November 15-18, 2026. Welcome to submit!
 
