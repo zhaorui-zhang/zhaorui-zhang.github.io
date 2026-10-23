@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) lead by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 
+I am currently a Research Assistant Professor at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am also a member of [Internet and Mobile Computing Laboratory (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) lead by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/), Vice President of our university.
 
 
 I received my Ph.D. degree from the [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), and very fortunate to work with my supervisor [Prof. Cho-Li Wang](https://i.cs.hku.hk/~clwang/). Before studying at HKU, I used to work with [Prof. Ray C. C. Cheung](https://cityuhk-calas.github.io/people/) in [CALAS](https://cityuhk-calas.github.io/) Lab at [City University of Hong Kong](https://www.cityu.edu.hk/). I received my Bachelor's degree in Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
@@ -49,11 +49,11 @@ Recent Highlight:
 
 - **26 June 2026**, Our project "SkyPS: A New Distributed Large-Scale Model Training/Fine-Tuning System Over Sky Computing Platform" was funded by HK-RGC: RGC General Research Fund (**GRF**).
 
-- **16 June 2026**, We will organize a **Workshop** [Codesign](https://codesignworkshop.github.io/2026/) at The Hong Kong Polytechnic University, Hong Kong, 21 Oct. - 23 Oct. 2026.
+- **16 June 2026**, We will organize a **"Forum"** [Codesign](https://codesignworkshop.github.io/2026/) to discuss the trends and future vision of High-Performance Computing (HPC). The Hong Kong Polytechnic University, Hong Kong, 21 Oct. - 23 Oct. 2026.
   
-- **08 June 2026**, We will organize a **Workshop** [DC4AI](https://hpc-and-ai.github.io/DC4AI-ATC-2026/) *The 1st International Workshop on Data Compression for AI and AI Applications (DC4AI)* at [ATC'26](https://sigops.org/s/conferences/atc/2026/index.html), *The 2026 ACM SIGOPS Annual Technical Conference*, Hong Kong, November 15-18, 2026. Welcome to submit!
+- **08 June 2026**, We will organize a **"Workshop"** [DC4AI](https://hpc-and-ai.github.io/DC4AI-ATC-2026/) *The 1st International Workshop on Data Compression for AI and AI Applications (DC4AI)* at [ATC'26](https://sigops.org/s/conferences/atc/2026/index.html), *The 2026 ACM SIGOPS Annual Technical Conference*, Hong Kong, November 15-18, 2026. Welcome to submit!
 
-- **24 April 2026**, We will organize a **Workshop** [DC4AI](https://hpc-and-ai.github.io/DC4AI-2026/) *The 1st International Workshop on Data Compression for AI and Big Data Applications* at [ICPP'26](https://icpp2026.github.io/), *55th International Conference on Parallel Processing*, Singapore, September 28 - October 1, 2026. Welcome to submit!
+- **24 April 2026**, We will organize a **"Workshop"** [DC4AI](https://hpc-and-ai.github.io/DC4AI-2026/) *The 1st International Workshop on Data Compression for AI and Big Data Applications* at [ICPP'26](https://icpp2026.github.io/), *55th International Conference on Parallel Processing*, Singapore, September 28 - October 1, 2026. Welcome to submit!
 
 - **18 Dec. 2025**, We will organize a **"Tutorial"** [DC4FL](https://hpc-and-ai.github.io/) about the data reduction for large-scale AI model training and fine-tuning at [HPDC'26](https://hpdc.sci.utah.edu/2026/), *The 35th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Cleveland, OH, USA, July 13-16, 2026. Welcome to our tutorial at HPDC'26.
 
