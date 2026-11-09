@@ -30,7 +30,7 @@ author_profile: true
 
 ### 2027:
 
-- **ICS' 27**: ACM International Conference on Supercomputing, [ICS'27](https://www.ics-conference.org/)
+- **ICS' 27**: ACM International Conference on Supercomputing, [ICS'27](https://klab-ai3.github.io/ics2027/)
 - **SCA' 27**: The Supercomputing Asia conference, [SCA'27](https://www.sc-asia.org/)
 
 ### 2026:
