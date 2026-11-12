@@ -31,6 +31,7 @@ author_profile: true
 ### 2027:
 
 - **ICS' 27**: ACM International Conference on Supercomputing, [ICS'27](https://klab-ai3.github.io/ics2027/)
+- **CCGrid' 27**: The 27th IEEE International Symposium on Cluster, Cloud, and Internet Computing, [CCGrid'27](https://hpcclab.org/ccgrid27/)
 - **SCA' 27**: The Supercomputing Asia conference, [SCA'27](https://www.sc-asia.org/)
 
 ### 2026:
