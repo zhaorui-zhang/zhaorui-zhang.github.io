@@ -11,6 +11,10 @@ author_profile: true
 
 ## 2026:
 
+- **TetrisZK: A Multi-GPU Zero-Knowledge Proof Framework with Two-Dimensional Parallelism and Memory-Aware Scheduling** \
+  	Yin Wenhao, Zhang Zhiyuan, Tan Yutong, **Zhaorui Zhang**, Ju Lei, Ji Zhuoran \
+  *The 44th IEEE International Conference on Computer Design*, **\(ICCD'26\)**, 2026
+  
 - **SplitFT: An Edge-Cloud Collaborative Federated Split Learning System** \
   	<u>Yimeng Shan*</u>, **Zhaorui Zhang**, Sheng Di, Yu Liu, Xiaoyi Lu, Benben Liu\
   *The International Conference for High-Performance Computing, Networking, Storage and Analysis, ECHO Workshop*, **\(SC'26\)**, 2026
